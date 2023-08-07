@@ -4,7 +4,7 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 04 Aug 2023
+# Updated: 07 Aug 2023
 # LatestVersion 22.10
 # Domain Count: 509
 #===============================================================
