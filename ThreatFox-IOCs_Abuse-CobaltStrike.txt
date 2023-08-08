@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-06 14:00:03 UTC                        #
+# Last updated: 2023-08-07 15:10:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+gstatick.com
+4.xianlaohu.com
 upadte-reviewer-online.live
 d2042y8vbs9p7p.cloudfront.net
 io.cy789.ml
@@ -8336,34 +8338,4 @@ mikeludomax.ddns.net
 mikeludoyyxx.ddns.net
 microsoft-edu.com
 pj.flyvpncrack.com
-best-exp.org
-soft-pro.site
-rxnovelapps.info
-jlmusiklearn.com
-tor-vpn.com
-nvidio-qeforce.info
-nvidio-qeforce.site
-nvidio-qeforce.us
-nvidio-qeforce.website
-nvldio-geforce.info
-nvldio-geforce.site
-nvldio-geforce.us
-nvldio-geforce.website
-nvidio-geforce.info
-nvidio-geforce.site
-nvidio-geforce.us
-nvidio-geforce.website
-nvidio-qeforce.website
-nvldio-geforce.website
-nvidio-qeforce.us
-nvidio-geforce.us
-nvldio-geforce.us
-nvidio-qeforce.info
-nvidio-geforce.site
-nvidio-qeforce.site
-nvldio-geforce.site
-nvidio-geforce.info
-nvidio-geforce.website
-nvldio-geforce.info
-service-cetz3fn1-1308943111.sh.apigw.tencentcs.com
-# Number of entries: 8360
+# Number of entries: 8332
