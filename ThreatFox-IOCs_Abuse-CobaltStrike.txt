@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-07 15:10:56 UTC                        #
+# Last updated: 2023-08-09 07:26:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+netdisk.780wow.com
+netdisk.ddnsgeek.com
+alexbp.ddns.net
+video01.dorila.top
+lapassover.site
+malai01.dorila.top
+csx22.top
+warwickyouth.com
+beautyforyou.top
+freedomly.top
+104.225.158.203.16clouds.com
+heishitanfan.online
+theonecorp.live
+kanomapsfuter.com
+affiksmaali.com
+service-bvle58gz-1311190281.sh.apigw.tencentcs.com
+charon2.corporate-helpdesk.de
 gstatick.com
 4.xianlaohu.com
 upadte-reviewer-online.live
@@ -8305,37 +8322,4 @@ portaldeservicos.best
 protectweb.mom
 webcliente.mom
 webconecta.pics
-honranova.giize.com
-nelore.gleeze.com
-sendonly.fatura-vivo-combr.online
-fatura-vivo-combr.online
-war3.u2pic.us
-smkpro.to
-lelele.barycallebaut.co
-cs-endpoint-hmb2bad8bkdwd2b0.z01.azurefd.net
-chrome-update.beeffun.workers.dev
-didimutele.com
-cloudgooglesdk.publicvm.com
-hghfe.tk
-wenill.cyou
-lively.rest
-keenly.rest
-ingressosonline.skin
-ingressosonline.yachts
-produtosagricolas.beauty
-ingressosonline.beauty
-ingressosonline.hair
-ingressosonline.homes
-ingressosonline.makeup
-ingressosonline.mom
-ingressosonline.pics
-ingressosonline.quest
-mikerowlexxxy.ddns.net
-donmikeyyyx.ddns.net
-mikerowlexyxx.ddns.net
-mikludoykxx.ddns.net
-mikeludomax.ddns.net
-mikeludoyyxx.ddns.net
-microsoft-edu.com
-pj.flyvpncrack.com
-# Number of entries: 8332
+# Number of entries: 8316
