@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-20 22:19:35 UTC                        #
+# Last updated: 2023-08-22 08:08:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+cloudmetricsapp.com
+web365metrics.com
+ultrasnafpor.com
+playertinid.com
+khalilhunter.autos
+antwanpittman.autos
+fisheredwards.autos
+carindeza.com
+ameliachoi.autos
+krishalvarado.autos
+skansnekssky.com
+startinghpot.com
+troffyfrutlot.com
+minesotkarpid.com
+snipelhafer.com
+cheenzocan.com
+cloudflare.com
+stelkaret.com
+tremethaj.com
+wisthardem.wiki
+yelkafeelind.com
+adaisreal.ddns.net
+cs.fighter-team.xyz
+lack.protax123.com
+ns3.yahootk.tk
+ns2.yahootk.tk
+ns1.yahootk.tk
+apple.weathersin.com
+kyliansuperm92139124.sbs
+kyliansuperm92139124.world
+intrafi.azureedge.net
+edlir.cloud
+ebfaiur.org
+saham.charget.cloud
+sahamman.charget.cloud
+samane.edlir.cloud
+charget.cloud
+shm.charget.cloud
+sahamet.website
+portal.sahamet.website
+biguxcse.xyz
+navid.tproject.cloud
+brd.4cham.top
 service-7tnbn05f-1319135578.bj.apigw.tencentcs.com
 app.ethvseos.nl
 websystemdisk.com
@@ -8355,33 +8398,4 @@ qertoplast.com
 officecdn.microsotf.com
 neonmilkustaers.com
 svoykbragudern.com
-finikomoneyback.ru
-true-version.com
-trust.gemoltest.ru
-vg.digilugu.net
-dhsyy.com
-service-7eaicd0p-1308943111.sh.apigw.tencentcs.com
-sso.silversters.com
-www.silversters.com
-silversters.com
-mrassociattes.com
-aerilaponawki.com
-alishaskainz.com
-alohaplinayagot.com
-aerilaponawki.com
-cdn.sncyhkttp.nl
-service-p8rvo1ba-1257582847.gz.apigw.tencentcs.com
-portal.dothuong.com
-baveyek.com
-xudavano.com
-rcc-software.com
-666palm.com
-777palm.com
-aa-cj.com
-fff-ttt.com
-moneylandry.com
-mavelecgr.com
-portaconexao8.top
-germogenborya.at
-eyecos.ga
-# Number of entries: 8378
+# Number of entries: 8392
