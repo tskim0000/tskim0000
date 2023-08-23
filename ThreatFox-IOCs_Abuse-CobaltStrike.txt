@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-22 08:08:39 UTC                        #
+# Last updated: 2023-08-23 05:10:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+cardlogical.info
+instantcap.info
+manamagazano.com
+zillafrogss.com
+alishopelec.com
+carsmarcetwrld.com
+kefsocksmag.com
+liopalsdrom.com
+rpgmagglader.com
+ultrascihictur.com
+zonanullpoker.com
+skrechelres.com
+tramikora.com
+tronpafet.com
+payloads.one
+service-g1c0a353-1302650299.sh.apigw.tencentcs.com
+service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
+service-rsb9hux9-1258128533.cd.apigw.tencentcs.com
 cloudmetricsapp.com
 web365metrics.com
 ultrasnafpor.com
@@ -8384,18 +8402,4 @@ doxuwojol.com
 d2keeghmxuwkh3.cloudfront.net
 hiden.geeksnail.ga
 service-9p7fpg6n-1257582847.bj.apigw.tencentcs.com
-zocujur.com
-google.0day.monster
-pililor.com
-service-3c8oujtz-1252130768.bj.apigw.tencentcs.com
-service-n4ufol3c-1252579309.gz.apigw.tencentcs.com
-qiap.cc
-ozxxb.eu
-vzxv.me
-smplemente.net
-olponetox.com
-qertoplast.com
-officecdn.microsotf.com
-neonmilkustaers.com
-svoykbragudern.com
-# Number of entries: 8392
+# Number of entries: 8396
