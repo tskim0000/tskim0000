@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-24 05:56:36 UTC                        #
+# Last updated: 2023-08-25 01:12:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+ www.upadte-reviewer-online.live
+ mint-stl.ru
+ api.nextgpt.fun
+ cs45up230823s.iqiyia.com
+ beacon2.keremsarmis.com
+ beacon.keremsarmis.com
+ cdn.google-cloudflare-static.store
  aliresulthostlogininc.duckdns.org
  service-dauzg94w-1258021343.gz.apigw.tencentcs.com
  gvlgq3xhw5-spot-sta1.b-cdn.net
@@ -8380,15 +8387,4 @@
  service-kmsksppr-1309016787.bj.apigw.tencentcs.com
  e-servicesolutions.com
  s604983.smrtp.ru
- vnssinc.com
- kbangbi.net
- upgrade.vip2-nice.com
- security.vip2-nice.com
- name.vip2-nice.com
- analytics.vip2-nice.com
- traffic.vip2-nice.com
- network.vip2-nice.com
- cs.capetradefinance.co.za
- app.sncyhkttp.nl
- cdn.winservers-network.in
-# Number of entries: 8385
+# Number of entries: 8381
