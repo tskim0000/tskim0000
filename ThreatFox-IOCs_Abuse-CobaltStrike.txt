@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-25 05:20:12 UTC                        #
+# Last updated: 2023-08-27 13:12:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+ crypromo.com
+ maddoxdevelopment.online
+ look.oregonwomenshealthnetwork.com
+ closen.kozow.com
+ www.akbeyaztckstil.com
+ aw0.awsstatic.om
+ withoutedge.com
+ thconnewfoot.org
+ caixas.link
+ ddllsearch.site
+ gepcash.com
+ amazonclouds.link
+ amur-city.online
+ tropius.hopto.org
+ redlinestealer.pw
+ aspmx5.clsr.ca
+ sseiatca.site
+ fzthemes.site
+ nakamurav.com
+ drumlinsecurity.com
+ qlvbsnv.binhphuoc.unixkernelhelp.com
+ pics.autistan.lu
+ ns1.ccadn.org
+ ns1.unixkernelhelp.com
+ bks.loginke.com
+ hello-world-steep-glade-9514.ddosploit.workers.dev
  direct.safone.me
  remot-crim.fun
  sena-ebla-gh.org
@@ -8358,36 +8384,4 @@
  fowejeno.com
  s607323.smrtp.ru
  admin.yuexiu.life
- ressage.ca
- service-mtrar14d-1316554402.sh.apigw.tencentcs.com
- luo.dchu2u.com
- real-stories-microsoft.com
- www.ccb.com.w.kunluncan.com
- service-2nbv117r-1252578242.bj.apigw.tencentcs.com
- service-2knpsjoi-1308395236.gz.apigw.tencentcs.com
- haecohk.azureedge.net
- yifebuto.com
- www.diaolu.live
- service-nwe3sk3y-1303130145.gz.apigw.tencentcs.com
- lugociyah.com
- zx.kbnexc.com
- as.kbnexc.com
- qw.kbnexc.com
- ponzinivek.com
- ruplearben.com
- talonbilling.com
- gorillagaz.com
- chanimoblie.com
- svcshosvt.com
- mirailovers.pw
- hihi.mirailovers.pw
- xvnmyi.ht5wy2lga.site
- da.fulim.top
- kbnexc.com
- jquerysslx.com
- fityourself.tk
- wns-cbdne2bnfzb3d8dz.z01.azurefd.net
- service-kmsksppr-1309016787.bj.apigw.tencentcs.com
- e-servicesolutions.com
- s604983.smrtp.ru
-# Number of entries: 8384
+# Number of entries: 8378
