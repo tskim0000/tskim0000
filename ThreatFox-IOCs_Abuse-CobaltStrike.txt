@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-28 08:21:13 UTC                        #
+# Last updated: 2023-08-28 23:40:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+ sanibroadbandcommunicton.duckdns.org
+ sviacloud.link
+ rendnar.link
+ sundayjs7250.duckdns.org
+ aizedamanga.serveminecraft.net
+ tutorecd.ufcfan.org
+ loa.stamin.top
+ 1.sybercodesilver.lol
+ fnfactura.cfd
+ nu-confirmacaoemail.com
  meetlak.link
  cxzbn.com
  myappforbqaxhtt.xyz
@@ -8387,4 +8397,4 @@
  www.kbangbi.net
  money.china.com
  fowejeno.com
-# Number of entries: 8381
+# Number of entries: 8391
