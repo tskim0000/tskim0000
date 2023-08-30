@@ -418,7 +418,6 @@ akochar.site
 com-in.asia
 221.151.183.213
 com-www.click
-daum.net
 114.228.136.48
 14.29.171.127
 180.116.107.244
