@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-08-29 21:52:03 UTC                        #
+# Last updated: 2023-08-30 20:17:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+dyqlwc826gfy0.cloudfront.net
+awda.updatecode.xyz
+fibrodoorsbig.xyz
+anrun.kr
+harudake.com
+gobyhacking.online
+sentinelupdate.click
+xcaadoadw.store
 service-k797j4br-1318291330.bj.apigw.tencentcs.com
 v10.officaesmicrasftonline.com
 lucd.shop
@@ -8417,4 +8425,4 @@ service-cq6c7204-1308476627.gz.apigw.tencentcs.com
 www.kbangbi.net
 money.china.com
 fowejeno.com
-# Number of entries: 8411
+# Number of entries: 8419
