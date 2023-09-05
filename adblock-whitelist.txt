@@ -4951,6 +4951,7 @@ cdn.bootcdn.net
 
 ! Offroad Forum
 4x4brasil.com.br
+www.4x4brasil.com.br
 
 ! https://github.com/hagezi/dns-blocklists/issues/1493
 static-bahn.de
@@ -5005,4 +5006,41 @@ smotret-anime.online
 www.smotret-anime.online
 smotretanime.ru
 www.smotretanime.ru
+
+! Electricity meter for Tibber (Lab functions)
+api.rudderlabs.com
+rudderstack.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1509
+en.financerites.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1511
+awswaf.com
+www.awswaf.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1513
+succeedscene.com
+www.succeedscene.com
+
+! Meeting service
+meeting.tencent.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1514
+graph.facebook-hardware.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1518
+gov.ua
+
+! https://github.com/hagezi/dns-blocklists/issues/1523
+lemmynsfw.com
+www.lemmynsfw.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1524
+tracking.airmee.com
+
+! Xiaomi firmware update/check
+connect.intl.rom.miui.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1526
+app.ringcentral.com
 
