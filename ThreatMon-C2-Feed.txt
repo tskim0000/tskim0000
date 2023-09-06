@@ -271,7 +271,6 @@ terraskillsgesfoundation.org
 gasak138.com
 64.227.48.112
 211.197.149.80
-github.com
 14.166.13.188
 westcoastrides.org
 hscaffold.com
@@ -1878,7 +1877,6 @@ black-haker.hopto.org
 6.119.13.53
 titwilobu.com
 apps.audimobile.info
-github.com
 185.44.229.57
 qr5c2etn6x5lhhfc.onion
 123.44.136.136
