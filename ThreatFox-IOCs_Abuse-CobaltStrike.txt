@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-05 07:57:30 UTC                        #
+# Last updated: 2023-09-07 06:38:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+vvooowkdqddcqcqcdqggggl.site
+stats-best.site
+admlogs77x.online
+blogxstat25.xyz
+blogxstat38.xyz
+demblog289.xyz
+serverxlogs21.xyz
+servxblog79.xyz
+sept6amd.tuktuk.ug
+chandler.megared.buzz
+d3a4778vul2s2h.cloudfront.net
+maskarbloom.com
+gerkablop.com
+dionaolesjob.com
+magiraptoy.com
+snapservarior.com
+plesbrilllian.com
+mmaymsoffrter.com
+shoopsihas.com
+feeltravelstok.com
+oekofkkfkoeefkefbnhgtrq.space
+trustdwnl.site
+xjytw.workout.oystergardener.net
+justdoitboy.xyz
+zx.svchostsreg.com
+as.svchostsreg.com
+qw.svchostsreg.com
+draggedline.org
+7689.ddns.net
+fustindor.com
+feekstokandy.com
+carsruitkan.com
+discojockeylight.duckdns.org
+analytics-google-x91.com
+sept5rcn.tuktuk.ug
+love4u.space
+adb007.top
+api.adb007.top
+rstp.adb007.top
+socket.adb007.top
+sept5amd.tuktuk.ug
+www.leakeddata.site
+www.sitennews.com
 ttzcloud.com
 sept4ama.tuktuk.ug
 6141.ddns.net
@@ -9852,26 +9895,4 @@ gerbatoilst.com
 rdp.amazmm.live
 siaoheg.aappatey.com
 iueg.aappatey.com
-svchost.freeddns.org
-progetecloud.online
-it2it.tk
-rlfslie.cloud
-sumnutrionm.com
-negerotar.com
-jilosrawet.com
-strindcommer.com
-pinchersoftqum.com
-kokphiladefvoid.com
-api.360com.live
-service-ftyn94bx-1308675124.cd.apigw.tencentcs.com
-download-discord.top
-osmanpo.ru
-payampo.ru
-orduhanpi.ru
-ogtaypi.ru
-myuridgo.ru
-muhtargo.ru
-muhsingo.ru
-sportiffcity.com
-second.yayayawawawa.cn
-# Number of entries: 9868
+# Number of entries: 9889
