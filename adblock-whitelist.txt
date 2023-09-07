@@ -5044,3 +5044,14 @@ connect.intl.rom.miui.com
 ! https://github.com/hagezi/dns-blocklists/issues/1526
 app.ringcentral.com
 
+! Podcast app
+fountain.fm
+
+! https://github.com/hagezi/dns-blocklists/issues/1530
+cdn.membershipworks.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1531
+ablink.email.etsy.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1533
+payments-tracking.waveapps.com
