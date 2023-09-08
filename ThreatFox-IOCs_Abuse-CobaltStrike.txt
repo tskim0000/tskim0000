@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-07 06:38:08 UTC                        #
+# Last updated: 2023-09-07 21:21:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+listen.appstored.store
+cs.sharksbaby.pro
+service-oshdwnr7-1306743016.bj.apigw.tencentcs.com
+dns.elsewhens.org
+piac.elsewhens.org
+fxe12.danamoninternal.com
+fwe43.danamoninternal.com
+fresh1.oracover.buzz
+qianxin.edr-down.uk
+menufreith.sytes.net
 vvooowkdqddcqcqcdqggggl.site
 stats-best.site
 admlogs77x.online
@@ -9874,25 +9884,4 @@ www.amazmm.live
 purpleinfluenceonline.com
 service-foqiq1ty-1312402023.gz.apigw.tencentcs.com
 securitysc.xyz
-update.pwserver.top
-olifamagaznov.com
-statifaronta.com
-tolanayo.com
-marduk.top
-youthconscience.com
-artztech.dyndns.info
-services-us-texas-m-1.skytap.com
-public.dsixonsat.com
-secure.dsixonsat.com
-mail.dsixonsat.com
-dsixonsat.com
-cloudapifirst.com
-podzeye.duckdns.org
-specialblue.in
-stapcovert.com
-statifaronta.com
-gerbatoilst.com
-rdp.amazmm.live
-siaoheg.aappatey.com
-iueg.aappatey.com
-# Number of entries: 9889
+# Number of entries: 9878
