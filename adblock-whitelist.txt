@@ -15,7 +15,7 @@ player-feedback-v1.glomex.com
 
 ! Adobe
 c00.adobe.com
-cc-api-data.adobe.io
+|cc-api-data.adobe.io
 ! Fonts
 use.typekit.net
 
@@ -27,10 +27,10 @@ s3-*-w.amazonaws.com
 s3-*-w.*.amazonaws.com
 
 ! Amazon Devices
-acsechocaptiveportal.com
-execute-api.*.amazonaws.com
-gateway.devices.a2z.com
-ntp-fireos.com
+|acsechocaptiveportal.com
+|execute-api.*.amazonaws.com
+|gateway.devices.a2z.com
+|ntp-fireos.com
 api*.amazonalexa.com
 arcus-*.amazon.com
 avs-alexa*.amazon.com
@@ -61,7 +61,7 @@ softwareupdates.amazon.com
 prod.amcs-tachyon.com
 
 ! Amazon Shopping / Apps
-images-amazon.com
+|images-amazon.com
 aax-*-retail-direct.amazon-adsystem.com
 aax-*-retail-direct.amazon.com
 aax-eu.amazon.ae
@@ -85,37 +85,37 @@ m.media-amazon.com
 d3ag4hukkh62yn.cloudfront.net
 
 ! Amazon Video
-aiv-cdn.net
-aiv-cdn.net.c.footprint.net
+|aiv-cdn.net
+|aiv-cdn.net.c.footprint.net
 !*.aiv-delivery.net
-amazonvideo.com
-atv-ext*.amazon.com
-atv-ps.amazon.com
-primevideo.com
-pv-cdn.net
+|amazonvideo.com
+|atv-ext*.amazon.com
+|atv-ps.amazon.com
+|primevideo.com
+|pv-cdn.net
 ! CNAME cf-trickplay.aux.pv-cdn.net
 d25xi40x97liuc.cloudfront.net
 
 ! Apple
 ! https://support.apple.com/en-us/HT210060
-apple-dns.net
-apple.com.akadns.net
-*-apple.com.akadns.net
-apple.com.edgekey.net
-apps.apple.com
-apps.apple.com.edgekey.net
-cdn-apple.com
-gateway*.apple-dns.net
-gateway.icloud.com
-gc.apple.com
-gc.fe.apple-dns.net
-gs-loc.apple.com
-itunes-cdn.itunes-apple.com.akadns.net
-itunes.apple.com
-itunes.apple.com.edgekey.net
-push.apple.com
-safebrowsing.apple
-smoot.apple.com
+|apple-dns.net
+|apple.com.akadns.net
+|apple.com.edgekey.net
+|apps.apple.com
+|apps.apple.com.edgekey.net
+|cdn-apple.com
+|gateway*.apple-dns.net
+|gateway.icloud.com
+|gc.apple.com
+|gc.fe.apple-dns.net
+|gs-loc.apple.com
+|itunes-cdn.itunes-apple.com.akadns.net
+|itunes.apple.com
+|itunes.apple.com.edgekey.net
+|push.apple.com
+|safebrowsing.apple
+|smoot.apple.com
+*apple-com.akadns.net
 apple.tt.omtrdc.net
 c.apple.com
 configuration.apple.com
@@ -137,11 +137,11 @@ trackingshipment.apple.com
 ! Breaks Apple Watch update, stucks on "Search for update"
 ! Homepod reports "no internet connection"
 ! https://github.com/hagezi/dns-blocklists/issues/930
-xp.apple.com
+|xp.apple.com
 
 ! Brave (plugins)
-ads.brave.com
-rewards.brave.com
+|ads.brave.com
+|rewards.brave.com
 ads-new.brave.com
 ads-serve.aws-internal.brave.com
 ads-serve.brave.com
@@ -164,11 +164,11 @@ search.anonymous.ads.brave.com
 static.ads.brave.com
 
 ! Certificates
-digicert.com
-entrust.net
-geotrust.com
-lencr.org
-verisign.net
+|digicert.com
+|entrust.net
+|geotrust.com
+|lencr.org
+|verisign.net
 ! CNAMES
 fp2e7a.wpc.2be4.phicdn.net
 fp2e7a.wpc.phicdn.net
@@ -194,11 +194,11 @@ web.facebook.com
 mqtt*.facebook.com
 
 ! Facebook CDN
-cdninstagram.com
-fbcdn.net
+|cdninstagram.com
+|fbcdn.net
 
 ! Google
-storage.googleapis.com
+|storage.googleapis.com
 afs.googleusercontent.com
 ajax.googleapis.com
 analyticsinsights-pa.googleapis.com
@@ -243,11 +243,11 @@ www.semanticlocation-pa.googleapis.com
 yt3.ggpht.com
 
 ! Breaks site layouts, videos and more on some sites
-googletagmanager.com
-googletagservices.com
-www-googletagmanager.l.google.com
+|googletagmanager.com
+|googletagservices.com
+|www-googletagmanager.l.google.com
 ! Not used for tracking, metrics, analytics
-metric.gstatic.com
+|metric.gstatic.com
 
 ! Hue Bridge
 ! https://github.com/hagezi/dns-blocklists/issues/208
@@ -260,24 +260,24 @@ www.ecdinterface.philips.com
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
-emails.microsoft.com
+|emails.microsoft.com
 
 ! Windows/Office 365 online
-data.microsoft.com.akadns.net
-events*.data.microsoft.com
-pipe.aria.microsoft.com
-vortex*.data.microsoft.com
-vortex.data.trafficmanager.net
+|data.microsoft.com.akadns.net
+|events*.data.microsoft.com
+|pipe.aria.microsoft.com
+|vortex*.data.microsoft.com
+|vortex.data.trafficmanager.net
 *events*.trafficmanager.net
 
-activity.windows.com
-dds.microsoft.com
-msftconnecttest.com
-search.microsoft.com
-services.microsoft.com
-share.microsoft.com
-smartscreen-prod.microsoft.com
-update.microsoft.com
+|activity.windows.com
+|dds.microsoft.com
+|msftconnecttest.com
+|search.microsoft.com
+|services.microsoft.com
+|share.microsoft.com
+|smartscreen-prod.microsoft.com
+|update.microsoft.com
 *api.*.microsoft.com
 *ocsp.microsoft.com
 ! *v10-win.vortex.data.microsoft.com.akadns.net
@@ -304,9 +304,9 @@ g.msn.com.nsatc.net
 global.asimov.events.data.trafficmanager.net
 go.microsoft.com
 go.trouter.skype.com
-insideruser.microsoft.com
-insideruser.trafficmanager.net
-insider.microsoft365.com
+|insideruser.microsoft.com
+|insideruser.trafficmanager.net
+|insider.microsoft365.com
 js.monitor.azure.com
 login.microsoftonline.com
 nexus.live.com
@@ -325,7 +325,7 @@ wcpstatic.microsoft.com
 windowsupdate.s.llnwi.net
 
 ! Office Forms
-forms.office.com
+|forms.office.com
 ! browser.pipe.aria.microsoft.com
 ! browser.events.data.microsoft.com
 ! browser.events.data.trafficmanager.net
@@ -333,13 +333,13 @@ c.msn.com
 c.office.com
 
 ! Office 365 online
-cdn.office.net
-teams.live.com
-teams.microsoft.com
-nexus.officeapps.live.com
-nexusrules.live.com
-nexusrules.live.com.akadns.net
-nexusrules.officeapps.live.com
+|cdn.office.net
+|teams.live.com
+|teams.microsoft.com
+|nexus.officeapps.live.com
+|nexusrules.live.com
+|nexusrules.live.com.akadns.net
+|nexusrules.officeapps.live.com
 ! office-c.events.data.microsoft.com
 ! office-g.events.data.microsoft.com
 ! office.events.data.microsoft.com
@@ -370,14 +370,14 @@ nexusrules.officeapps.live.com
 ! https://github.com/hagezi/dns-blocklists/issues/1304
 edge-enterprise.activity.windows.com
 edge.activity.windows.com
-aadrm.com
-aadrm.de
-aadrm.cn
-aadrm.us
+|aadrm.com
+|aadrm.de
+|aadrm.cn
+|aadrm.us
 
 ! XBox Rewards
-rewardsprod.trafficmanager.net
-rewardsplatform.microsoft.com
+|rewardsprod.trafficmanager.net
+|rewardsplatform.microsoft.com
 
 ! Netflix
 ! Prevents Netflix from continuing to play videos where you stopped or paused them
@@ -392,8 +392,8 @@ img.nvidiagrid.net
 services.gfe.nvidia.com
 
 ! Proctorio
-proctor.io
-proctorio.com
+|proctor.io
+|proctorio.com
 ! Proctorio / Postbank
 bam.eu01.nr-data.net
 bam-eu01.cell.eu.nr-data.net
@@ -494,7 +494,7 @@ vdterms.samsungcloudsolution.com
 webapp-prod.cloud.remarkable.engineering
 
 ! https://github.com/hagezi/dns-blocklists/issues/309
-info.lgsmartad.com
+|info.lgsmartad.com
 aic-gfts.lge.com
 aic-ngfts.lge.com
 aic-op-lss.lgthinq.com
@@ -509,14 +509,14 @@ us.lgeapi.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 ! https://github.com/hagezi/dns-blocklists/issues/1216
-cdpsvc.lgtvcommon.com
-recommend.lgtvcommon.com
+|cdpsvc.lgtvcommon.com
+|recommend.lgtvcommon.com
 
 ! Spotify
 ! Prevent problems with Spotify Premium
-scdn.co
-spotify.com.akahost.net
-spotify.com.edgesuite.net
+|scdn.co
+|spotify.com.akahost.net
+|spotify.com.edgesuite.net
 *spotify-com.akamaized.net
 audio*.spotify.com
 dealer.spotify.com
@@ -526,7 +526,7 @@ wl.spotify.com
 ! Twitter
 ads.twitter.com
 analytics.twitter.com
-syndication.twitter.com
+|syndication.twitter.com
 t.co
 www.t.co
 global.albtls.t.co
@@ -535,8 +535,8 @@ na.albtls.t.co
 dlp3zj68t5lvh.cloudfront.net
 
 ! Youtube
-googlevideo.com
-ytimg.com
+|googlevideo.com
+|ytimg.com
 i.ytimg.com
 i1.ytimg.com
 s.youtube.com
@@ -554,7 +554,7 @@ www.youtube-nocookie.com
 
 ! Online-Metrix (breaking)
 ! https://risk.lexisnexis.com/global/en/products/threatmetrix
-rbc.online-metrix.net
+|rbc.online-metrix.net
 
 citi.online-metrix.net
 fbsbx.com.online-metrix.net
@@ -615,12 +615,12 @@ h-walmart.online-metrix.net
 ! Axiad (https://www.axiad.com) provides Private Key Infrastructure (PKI)
 axiadids.net
 www.axiadids.net
-cloud.axiadids.net
+|cloud.axiadids.net
 
 ! Videos on different websites do not start when the following domains are blocked:
-damoh.*.de
-schneevonmorgen.com
-schneevonmorgen.com.s3.amazonaws.com
+|damoh.*.de
+|schneevonmorgen.com
+|schneevonmorgen.com.s3.amazonaws.com
 ultimedia.com
 www.ultimedia.com
 cdnapisec.kaltura.com
@@ -657,14 +657,14 @@ sizyreelingly.com
 www.sizyreelingly.com
 
 ! Xiaomi device updates
-update.intl.miui.com
+|update.intl.miui.com
 
 ! AdGuard
-adguard-dns.com
-adguard-dns.io
-adguard.com
-adtidy.net
-adtidy.org
+|adguard-dns.com
+|adguard-dns.io
+|adguard.com
+|adtidy.net
+|adtidy.org
 email-*.adtidy.*
 
 ! Misc (Breaking)
@@ -680,7 +680,7 @@ www.mycliplister.com
 pcapredict.com
 www.pcapredict.com
 sportsbet.com.au
-onesignal.com
+|onesignal.com
 
 ! Misc (sites)
 freenet.de
@@ -696,7 +696,7 @@ kiwibrowser.org
 www.kiwibrowser.org
 
 ! NextDNS
-nextdns.io
+|nextdns.io
 
 ! ControlD
 analytics.controld.com
@@ -705,7 +705,7 @@ analytics.controld.com
 a1843.g.akamai.net
 
 ! Cookies on various sites (spiegle.de ...)
-sp-prod.net
+|sp-prod.net
 
 ! Polls on n-tv.de and other news sites
 api.opinary.com
@@ -874,7 +874,7 @@ countess.twitch.tv
 cdn-customers.nanorep.com
 
 ! Customer support
-zopim.com
+|zopim.com
 
 ! https://github.com/EnergizedProtection/block/issues/639
 devices.carnivalmobile.com
@@ -895,7 +895,7 @@ www.fakeshop-finder.nrw
 
 ! required for steam purchases
 t.paypal.com
-stats.paypal.com
+|stats.paypal.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/26
 cdn.elev.io
@@ -942,7 +942,7 @@ webadvisorc.rest.gti.mcafee.com
 production-cmp.isgprivacy.cbsi.com
 
 ! Videos on 9news.com.au
-api.brightcove.com
+|api.brightcove.com
 edge.api.brightcove.com
 
 ! Sky Sport
@@ -994,7 +994,7 @@ chip.com.tr
 ! survey-based insights
 cint.com
 www.cint.com
-asynchronousmessaging.dashboard.co.uk
+|asynchronousmessaging.dashboard.co.uk
 
 ! Calssmates site
 classmates.com
@@ -1053,7 +1053,7 @@ dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com
 static.webclicks24.com
 
 ! https://github.com/notracking/hosts-blocklists/issues/789
-cdn-noc.net
+|cdn-noc.net
 
 ! https://github.com/badmojr/1Hosts/issues/661
 alvarotrigo.com
@@ -1123,7 +1123,7 @@ cdn1-images.nutaku.net
 cdn1-images.nutaku.com
 
 ! my.nextdns.io
-vercel-dns.com
+|vercel-dns.com
 ! cname.vercel-dns.com
 
 ! Videos on omroepbrabant.nl
@@ -1150,14 +1150,14 @@ qt.io
 www.qt.io
 
 ! Search on various sites
-searchnode.io
-searchnode.net
+|searchnode.io
+|searchnode.net
 
 ! Images/Content on realclearpolitics.com
 assets.realclear.com
 
 ! Videos on rnd.de
-video-api.arcpublishing.com
+|video-api.arcpublishing.com
 madsack-prod-cdn.video-api.arcpublishing.com
 
 ! Site layout on rutube.ru
@@ -1294,7 +1294,7 @@ ipaddress.com
 www.ipaddress.com
 
 ! Breaks Windowsupdate in VirtualBox
-api.iris.microsoft.com
+|api.iris.microsoft.com
 
 ! Images/ media on sports.bwin.de
 scmedia.itsfogo.com
@@ -1369,16 +1369,16 @@ videos.kino.de
 learn.cisecurity.org
 
 ! Videos on RTL.de
-rtl-relay.iocnt.net
-relay-client-c03.iocnt.net
-data-*.rtl.de
+|rtl-relay.iocnt.net
+|relay-client-c03.iocnt.net
+|data-*.rtl.de
 !+ googletagmanager.com
 
 ! Site layout on https://www.mybestbrands.de/
 cdn-eu.dynamicyield.com
 
 ! Breaks site layout on MyDirtyHobby
-mdhcdn.com
+|mdhcdn.com
 ! cdn1-s-ha-e15.mdhcdn.com
 ! cdn1-s-ha-e17t.mdhcdn.com
 ! cdn1-s-ha-e18.mdhcdn.com
@@ -1420,7 +1420,7 @@ www.yagiay.com
 wallet.advcash.com
 
 ! https://github.com/nextdns/metadata/issues/1061
-videorolls.row.aiv-cdn.net
+|videorolls.row.aiv-cdn.net
 ! s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 ! s3.ll.videorolls.row.aiv-cdn.net
 
@@ -1452,7 +1452,7 @@ ellation.map.fastly.net
 prospekt.aldi-sued.de
 publitas.com
 www.publitas.com
-custom-domain.publitas.com
+|custom-domain.publitas.com
 
 ! https://github.com/badmojr/1Hosts/issues/699
 ekomi.com
@@ -1543,7 +1543,7 @@ image.ccg.nintendo.net
 ! cdn.braze.eu
 
 ! https://github.com/badmojr/1Hosts/issues/708
-kiwibrowser.com
+|kiwibrowser.com
 
 ! Strato Shops
 shop.strato.de
@@ -1584,12 +1584,12 @@ www.baihe.com
 www.56.com
 
 ! REWE online Prospekt
-bonialconnect.com
+|bonialconnect.com
 content-media.bonial.biz
 
 ! General support chat
 ! https://github.com/hagezi/dns-blocklists/issues/40
-intercom.io
+|intercom.io
 api*.intercom.io
 widget.intercom.io
 
@@ -1601,12 +1601,12 @@ www.research.net
 api-v4.trbo.com
 
 ! Shops
-spartoo.co.uk
-spartoo.com
-spartoo.de
-spartoo.it
-spartoo.pl
-spartoo.pt
+|spartoo.co.uk
+|spartoo.com
+|spartoo.de
+|spartoo.it
+|spartoo.pl
+|spartoo.pt
 gizmodern.com
 www.gizmodern.com
 
@@ -1632,13 +1632,13 @@ traccar.org
 www.traccar.org
 
 ! Customer Chat / Vodafone error reporting
-messengerpeople.com
+|messengerpeople.com
 
 ! Breaks some services/sites (Renault API, ...)
 ! https://github.com/StevenBlack/hosts/issues/2098
 ! https://github.com/AdAway/adaway.github.io/pull/352
 ! https://github.com/nextdns/metadata/issues/1078
-gigya.com
+|gigya.com
 
 ! https://github.com/AdAway/adaway.github.io/issues/338
 info.ammex.com
@@ -1660,7 +1660,7 @@ wpbeaches.com
 www.wpbeaches.com
 
 ! Images on Forbes
-ceros.com
+|ceros.com
 
 ! MAJESTIC
 majesticseo.com
@@ -1675,7 +1675,7 @@ ecosia.de
 www.ecosia.de
 
 ! Portainer
-scarf.sh
+|scarf.sh
 cr.portainer.io
 ! gateway.scarf.sh
 
@@ -1689,7 +1689,7 @@ static.cloud.coveo.com
 js.pusher.com
 
 ! https://about.gitlab.com/solutions/open-source/join/
-sheerid.com
+|sheerid.com
 
 ! Firmware updates shure.com
 p.shure.com
@@ -1717,7 +1717,7 @@ www.aeotec.com
 ! https://github.com/StevenBlack/hosts/issues/2109
 
 ! https://github.com/EnergizedProtection/block/issues/902
-wdtinc.com
+|wdtinc.com
 
 ! Breaks Hulu streaming when at ad play periods
 ads-a-darwin.hulustream.com.akamaized.net
@@ -1736,7 +1736,7 @@ yep.com
 www.yep.com
 
 ! Vodafone IMS Services
-ims.vodafone.com
+|ims.vodafone.com
 
 ! Soundcloud Feeds
 d28n7yywqog3r7.cloudfront.net
@@ -1760,7 +1760,7 @@ zinspilot.de
 www.zinspilot.de
 
 ! Disneyland Paris register
-registerdisney.go.com
+|registerdisney.go.com
 
 ! 3-D Secure authentication
 includes.ccdc02.com
@@ -1771,29 +1771,29 @@ tracking.dpd.de
 ! Akamai
 akadns.net
 www.akadns.net
-akagtm.org
-akahost.net
-akam.net
+|akagtm.org
+|akahost.net
+|akam.net
 akamai.com
 www.akamai.com
 akamai.net
 www.akamai.net
-akamaiedge-staging.net
+|akamaiedge-staging.net
 akamaiedge.net
 www.akamaiedge.net
 *-akamaientrypoint.net
 www.*-akamaientrypoint.net
 akamaihd.net
 www.akamaihd.net
-akamaistream.net
-akamaitech.net
-akamaitechnologies.com
-akamaitechnologies.fr
+|akamaistream.net
+|akamaitech.net
+|akamaitechnologies.com
+|akamaitechnologies.fr
 akamaized.net
 www.akamaized.net
-akaquill.net
-akasecure.net
-akasripcn.net
+|akaquill.net
+|akasecure.net
+|akasripcn.net
 edgekey.net
 www.edgekey.net
 edgesuite.net
@@ -1874,7 +1874,7 @@ sp-ao.shortpixel.ai
 
 ! Confirmation of change.org petitions
 click.e.change.org
-change.org.cdn.cloudflare.net
+|change.org.cdn.cloudflare.net
 
 ! reviews about online shops
 avis-verifies.com
@@ -1915,7 +1915,7 @@ dailycaller.com
 www.dailycaller.com
 
 ! Application Insights data on the Azure portal
-aimon.applicationinsights.io
+|aimon.applicationinsights.io
 applicationinsights.io
 www.applicationinsights.io
 
@@ -1951,7 +1951,7 @@ www.norden.social
 tivan.naver.com
 
 ! Greek school sites
-sch.gr
+|sch.gr
 
 ! CDN - Breaks https://academic.oup.com/comjnl/article-abstract/62/8/1106/5298776?login=false
 oup.silverchair-cdn.com
@@ -1972,22 +1972,22 @@ mobile-data.onetrust.io
 ! Twibbonize
 twibbonize.com
 www.twibbonize.com
-twibbonize.com.cdn.ezoic.net
+|twibbonize.com.cdn.ezoic.net
 
 ! CDN of Akamai
 akamai-images-content.com
 www.akamai-images-content.com
 
 ! Yandex Single Sign On
-passport.yandex.ru
+|passport.yandex.ru
 
 ! MX server for Yandex.Mail
 mx.yandex.ru
 
 ! Yandex breaking
-export.yandex.ru
-informer.yandex.ru
-share.yandex.ru
+|export.yandex.ru
+|informer.yandex.ru
+|share.yandex.ru
 
 ! Videos on ettoday.net
 msg.ettoday.net
@@ -2037,7 +2037,7 @@ www.meituan.com
 app.gitbook.com
 
 ! Unsubscribe from various Newsletters
-seu*.cleverreach.com
+|seu*.cleverreach.com
 
 ! Manage kmail lists
 manage.kmail-lists.com
@@ -2070,7 +2070,7 @@ cdn.sgmntfy.com
 api.yep.com
 
 ! Breaks site layout on therapythatworksinstitute.com and others
-kajabi-cdn.com
+|kajabi-cdn.com
 
 ! Open-source and modern URL shortener
 kutt.it
@@ -2115,18 +2115,18 @@ acdsystems.com
 www.acdsystems.com
 
 ! Images/Links/... in Mails (Nintendo, SEAT, ...)
-exacttarget.com.edgekey.net
+|exacttarget.com.edgekey.net
 
 ! Images/Links in Microsft Mails
-email*.office.com
-email.microsoftemail.com
-email.microsoftonline.com
-email.microsoftrewards.com
-engage.surface.com
-engage.windows.com
-engage.xbox.com
-mail.onedrive.com
-microsoftstoreemail.com
+|email*.office.com
+|email.microsoftemail.com
+|email.microsoftonline.com
+|email.microsoftrewards.com
+|engage.surface.com
+|engage.windows.com
+|engage.xbox.com
+|mail.onedrive.com
+|microsoftstoreemail.com
 
 ! Images in Mails - DHL, …
 imgs.elainemedia.de
@@ -2174,7 +2174,7 @@ eulatracking*.epicgames.com
 eulatracking*.elb.amazonaws.com
 
 ! Chick-Fil-A App
-tmetrix.my.chick-fil-a.com
+|tmetrix.my.chick-fil-a.com
 
 ! Imgur
 js.media-lab.ai
@@ -2207,7 +2207,7 @@ www.liveperson.com
 adminlogin.liveperson.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/96
-arc.epoq.de
+|arc.epoq.de
 
 ! legit website
 deviceatlas.com
@@ -2337,7 +2337,7 @@ zephr.com
 www.zephr.com
 
 ! Images in various mails, e.g. Doktoronline
-msdp1.com
+|msdp1.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/119
 cdn-116.anonfiles.com
@@ -2351,10 +2351,10 @@ client-uc.heytapmobi.com
 ! https://github.com/hagezi/dns-blocklists/issues/122
 static.cdn.responsys.net
 
-performfeeds.com
+|performfeeds.com
 
 ! Breaks LinkedIn
-cdx.cedexis.net
+|cdx.cedexis.net
 
 ! TSB Bank mobile banking app
 check2.tsb.co.uk
@@ -2392,7 +2392,7 @@ amazonforum.com
 www.amazonforum.com
 
 ! verifying student status in YT Music or YT
-sheerid.net
+|sheerid.net
 
 ! Image sharing
 i.imgci.com
@@ -2432,7 +2432,7 @@ adlermode.com
 www.adlermode.com
 
 ! Video Streaming
-videoland.com
+|videoland.com
 
 ! Game
 clickerheroes.com
@@ -2469,7 +2469,7 @@ cdn.brid.tv
 cdn.tpdads.com
 
 ! Weather Apps/Maps - e.g. Carrot Weather
-aerisapi.com
+|aerisapi.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/168
 app.link.nba.com
@@ -2478,7 +2478,7 @@ www.clickdimensions.com
 custom.bnc.lt
 
 ! https://github.com/hagezi/dns-blocklists/issues/169
-tnt-ea.com
+|tnt-ea.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/171
 mntzrlt.net
@@ -2534,7 +2534,7 @@ www.mywot.com
 mindvalley.com
 www.mindvalley.com
 
-etrality.com
+|etrality.com
 
 api.speedspot.org
 
@@ -2546,10 +2546,10 @@ docdro.id
 www.docdro.id
 
 ! Xiaomi sync
-micardapi.micloud.xiaomi.net
-pdc.micloud.xiaomi.net
-phonecallapi.micloud.xiaomi.net
-smsapi.micloud.xiaomi.net
+|micardapi.micloud.xiaomi.net
+|pdc.micloud.xiaomi.net
+|phonecallapi.micloud.xiaomi.net
+|smsapi.micloud.xiaomi.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/210
 reddit.app.link
@@ -2579,7 +2579,7 @@ akm-img-a-in.tosshub.com
 wwwimage-tve.cbsstatic.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/215
-api.b.hatena.ne.jp
+|api.b.hatena.ne.jp
 
 ! Tech help articles
 living-sun.com
@@ -2587,7 +2587,7 @@ www.living-sun.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/198
 ! https://github.com/hagezi/dns-blocklists/issues/218
-maxmind.com
+|maxmind.com
 
 ! Special offers from Aachen
 oecherdeal.de
@@ -2602,7 +2602,7 @@ edgeme.sh
 www.edgeme.sh
 
 ! https://github.com/hagezi/dns-blocklists/issues/223
-snap.com
+|snap.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/224
 ahacdn.me
@@ -2638,7 +2638,7 @@ myaccount.nytimes.com
 bilder-a.akamaihd.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/235
-aylanetworks.com
+|aylanetworks.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/236
 embed.tagboard.com
@@ -2664,7 +2664,7 @@ logo.clearbit.com
 thumb.highdeliveryscdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/242
-boldchat.com
+|boldchat.com
 dyson.nanorep.co
 us1-1.nanorep.co
 mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
@@ -2728,7 +2728,7 @@ download.extremereach.com
 updates.extremereach.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/259
-instant.page
+|instant.page
 
 ! cover of redpocket at wechat - not able to see the custom cove
 wxsnsdy.wxs.qq.com
@@ -2747,7 +2747,7 @@ asiakas.valokuitunen.fi
 news.rambler.ru
 
 ! Contabo Object Storage
-contabostorage.com
+|contabostorage.com
 
 ! Yahoo App/Mail
 ! https://github.com/hagezi/dns-blocklists/issues/269
@@ -2770,7 +2770,7 @@ api-secure.solvemedia.com
 check.ddos-guard.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/268
-pdcdn1.top
+|pdcdn1.top
 
 ! Turkish Airlines and other apps - Full-screen Stories
 api.storyly.io
@@ -2802,14 +2802,14 @@ code.createjs.com
 ! SmartThings - https://github.com/hagezi/dns-blocklists/issues/273
 api.st-av.net
 uimetadata.samsungiotcloud.com
-mcsvc.samsung.com
+|mcsvc.samsung.com
 
 ! Discord Server List
 discords.com
 www.discords.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/275
-osi.office.net
+|osi.office.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/276
 indusprodcustomer3996.pc.cdn.bitgravity.com
@@ -2818,7 +2818,7 @@ www.lalpathlabs.com
 
 ! Site layout o2online.de
 ! https://github.com/hagezi/dns-blocklists/issues/279
-o9.de
+|o9.de
 
 ! Typeform
 embed.typeform.com
@@ -2834,13 +2834,13 @@ filehorse.com
 www.filehorse.com
 
 ! Compliance Solution for Small Businesses
-termly.io
+|termly.io
 
 ! Sweden's biggest gym-app - blob-storage/CDN for Azure
 az416426.vo.msecnd.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/283
-buymeacoffee.com
+|buymeacoffee.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/288
 csm-e-cbch-eb.tls1.yospace.com
@@ -2865,7 +2865,7 @@ collector.appconsent.io
 email.goodrx.com
 
 ! Customer care of Swiggy Food Delivery App
-pubnub.com
+|pubnub.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/296
 homedepot.cdn.findly.com
@@ -2886,13 +2886,13 @@ e.imguol.com
 h.imguol.com
 
 ! Fix BBC Videos (Consent banner blocked)
-fundingchoicesmessages.google.com
+|fundingchoicesmessages.google.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/300
-stat.gov.pl
+|stat.gov.pl
 
 ! https://github.com/hagezi/dns-blocklists/issues/303
-unmineable.com
+|unmineable.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/302
 phishingquiz.withgoogle.com
@@ -2940,7 +2940,7 @@ track.dhlparcel.co.uk
 mijn.overheid.nl
 
 ! https://github.com/hagezi/dns-blocklists/issues/313
-tipico.de
+|tipico.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/314
 mobapi-qero-ab.e-goi.com
@@ -3005,7 +3005,7 @@ tawk.to
 www.tawk.to
 
 ! break the messaging capabilities of Chinese chat app Tencent QQ
-msf.3g.qq.com
+|msf.3g.qq.com
 msfwifi.3g.qq.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/337
@@ -3021,11 +3021,11 @@ carbon-v2.ipsator.com
 sentry.sc-prod.net
 
 ! Custommer support chat on various sites
-chatra.io
+|chatra.io
 
 ! Breaks Forms on/in various sites/apps
-static-app.klaviyo.com
-static-forms.klaviyo.com
+|static-app.klaviyo.com
+|static-forms.klaviyo.com
 
 ! breaks architectural digest’s website by blocking media.architecturaldigest.com
 vulcan.condenastdigital.com
@@ -3046,7 +3046,7 @@ img.yana.asideas.de
 prod-image-fastly-cdn.yana.asideas.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/380
-speedtest.sbcglobal.net
+|speedtest.sbcglobal.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/364
 reliaquest.com
@@ -3061,10 +3061,10 @@ imagesvc.meredithcorp.io
 cdn.video.meredithcorp.io
 
 ! Blocks CNN app on Apple TV from confirming geo location, a requirement to open app
-geo.ngtv.io
+|geo.ngtv.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/432
-measurement-lab.org
+|measurement-lab.org
 
 ! https://github.com/hagezi/dns-blocklists/issues/433
 sbchill.com
@@ -3124,7 +3124,7 @@ www.karenpryoracademy.com
 ping.ui.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/575
-syn-alias.com
+|syn-alias.com
 
 ! About the future of the Sion electro solar car
 go.sonomotors.com
@@ -3134,7 +3134,7 @@ cliqz.com
 www.cliqz.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/586
-imgix.datadoghq.com
+|imgix.datadoghq.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/589
 mail.office.hiworks.com
@@ -3150,14 +3150,14 @@ zadn.vn
 www.zadn.vn
 
 ! https://github.com/hagezi/dns-blocklists/issues/605
-mc.cubecdn.net
-images.core.optasports.com
+|mc.cubecdn.net
+|images.core.optasports.com
 vue.comm100.com
 cmsbetconstruct.com
 www.cmsbetconstruct.com
 eu-swarm-newm.betcoswarm.com
 statistics.bcapps.org
-widget.cloud.opta.net
+|widget.cloud.opta.net
 
 ! F1 App - live blog
 d11rmv9we9fli4.cloudfront.net
@@ -3210,14 +3210,14 @@ dreamsearch.or.kr
 gokams.or.kr
 
 ! https://github.com/hagezi/dns-blocklists/issues/647
-cdnhwc1.com
+|cdnhwc1.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/655
 *-boot.tiktok*.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/668
-strpst.com
-doppiocdn.com
+|strpst.com
+|doppiocdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/669
 thecanadianpharmacy.com
@@ -3231,10 +3231,10 @@ compaq.com
 www.compaq.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/672
-tuyacn.com
+|tuyacn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/615
-dvsdvsdvsdva.com
+|dvsdvsdvsdva.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/677
 mktp.tmoney.co.kr
@@ -3254,7 +3254,7 @@ salt.tikicdn.com
 i.doodcdn.co
 
 ! https://github.com/hagezi/dns-blocklists/issues/699
-cname.campaign.adobe.com
+|cname.campaign.adobe.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/701
 metrics.leaptel.com.au
@@ -3273,7 +3273,7 @@ tms.nab.com.au
 acs-m.lazada.sg
 
 ! https://github.com/hagezi/dns-blocklists/issues/711
-postup.com
+|postup.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/712
 fosscord.com
@@ -3309,7 +3309,7 @@ fast.wistia.net
 1115546720.rsc.cdn77.org
 
 ! https://github.com/hagezi/dns-blocklists/issues/734
-riotpixels.net
+|riotpixels.net
 
 ! Proxy
 hosteagle.club
@@ -3324,8 +3324,8 @@ arttrk.com
 www.arttrk.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/744
-gph.easebar.com
-update.easebar.com
+|gph.easebar.com
+|update.easebar.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/747
 analytics.shopify.com
@@ -3358,7 +3358,7 @@ www.trello.com
 
 ! Breaks https://mint.intuit.com/
 offcnt.intuit.com
-api.intuit.com
+|api.intuit.com
 eventbus.intuit.com
 trinity.platform.intuit.com
 
@@ -3369,13 +3369,13 @@ clientservices.googleapis.com
 ads-*-darwin.hulu.com
 
 ! CNAME tradepub.com
-netline.com
+|netline.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/790
 people-pa.googleapis.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/791
-mkklcdnv6tempv4.com
+|mkklcdnv6tempv4.com
 
 ! Fandom
 lostmediaarchive.fandom.com
@@ -3401,7 +3401,7 @@ yacy.net
 www.yacy.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/802
-wsj.net
+|wsj.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/805
 getmonero.org
@@ -3444,15 +3444,15 @@ objective-see.org
 www.objective-see.org
 
 ! https://github.com/hagezi/dns-blocklists/issues/841
-samsungapps.com
-samsungapps.com.wtxcdn.com
+|samsungapps.com
+|samsungapps.com.wtxcdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/843
 store*.gofile.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/853
-cbox.im
-cbox.ws
+|cbox.im
+|cbox.ws
 
 ! https://github.com/hagezi/dns-blocklists/issues/855
 ws-eu.pusher.com
@@ -3460,17 +3460,17 @@ sockjs-eu.pusher.com
 sockjs.pusher.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/854
-opensignal.com
+|opensignal.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/857
-eaglecdn.com
+|eaglecdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/856
 segura-moto.fr
 www.segura-moto.fr
 
 ! MiWifi API - Blocks sign in to Mi Wifi app
-api.miwifi.com
+|api.miwifi.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/865
 content.ctfs.com
@@ -3495,7 +3495,7 @@ encrypted*.gstatic.com
 link.dana.id
 
 ! https://github.com/hagezi/dns-blocklists/issues/881
-nexus.ensighten.com
+|nexus.ensighten.com
 p11.techlab-cdn.com
 logs.juspay.in
 
@@ -3509,7 +3509,7 @@ tracker-g.aiscore.com
 ephemeralcounters.api.roblox.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/890
-beaute-test.com
+|beaute-test.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/901
 api.nextgen.guardianapps.co.uk
@@ -3517,7 +3517,7 @@ api.nextgen.guardianapps.co.uk
 ! https://github.com/hagezi/dns-blocklists/issues/899
 ! Adult Swim app/channel om Roku
 medium.ngtv.io
-cdn.turner.com
+|cdn.turner.com
 c.amazon-adsystem.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/908
@@ -3537,14 +3537,14 @@ phonearena.com
 www.phonearena.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/924
-edge.experimentation.intuit.com
+|edge.experimentation.intuit.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/927
 selezen.net
 www.selezen.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/931
-find.api.micloud.xiaomi.net
+|find.api.micloud.xiaomi.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/934
 analytics.icis.com
@@ -3559,14 +3559,14 @@ cdn.petametrics.com
 videos.filmstarts.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/936
-clarity.dexcom.com
-clarity.dexcom.com.cdn.cloudflare.net
+|clarity.dexcom.com
+|clarity.dexcom.com.cdn.cloudflare.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/939
 js.duhnet.tv
 
 ! https://github.com/hagezi/dns-blocklists/issues/937
-ilan.gov.tr
+|ilan.gov.tr
 
 ! https://github.com/hagezi/dns-blocklists/issues/940
 w1.buysub.com
@@ -3583,7 +3583,7 @@ www.com.com
 www.123freeavatars.com
 
 ! ASANA
-app.asana.com
+|app.asana.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/942
 sputniknews.com
@@ -3615,7 +3615,7 @@ d.delivery.consentmanager.net
 api.sbz.vn
 
 ! https://github.com/hagezi/dns-blocklists/issues/955
-attraqt.com
+|attraqt.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/957
 data.g2crowd.com
@@ -3719,10 +3719,10 @@ mng.bz
 www.mng.bz
 
 ! EA Games
-gameservices.ea.com
+|gameservices.ea.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/988
-family.microsoft.com
+|family.microsoft.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/989
 pressplay.top
@@ -3745,7 +3745,7 @@ websocket.pushbullet.com
 widget.pushbullet.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/993
-securenetsystems.net
+|securenetsystems.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/994
 kompas.com
@@ -3768,7 +3768,7 @@ umami.is
 www.umami.is
 plausible.io
 www.plausible.io
-custom.plausible.io
+|custom.plausible.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/999
 cvf.shopee.*
@@ -3802,13 +3802,13 @@ t8.baidu.com
 t9.baidu.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1009
-curve.app
+|curve.app
 
 ! https://github.com/hagezi/dns-blocklists/issues/1010
 img.ekstat.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1012
-quicns.com
+|quicns.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1014
 fly.customer.io
@@ -3857,7 +3857,7 @@ zlp-bill-tracking.zalopay.vn
 jsv3.recruitics.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1029
-blackfire.io
+|blackfire.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/1031
 a.jsrdn.com
@@ -3879,7 +3879,7 @@ ypncdn.com
 www.ypncdn.com
 
 ! WyzeCam IoT devices
-iotcplatform.com
+|iotcplatform.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1037
 mark.isbank.com.tr
@@ -3888,10 +3888,10 @@ mark.isbank.com.tr
 analytics.halkbank.com.tr
 
 ! https://github.com/hagezi/dns-blocklists/issues/1040
-a2hosted.com
+|a2hosted.com
 
 ! Just for tracking ships
-marinetraffic.com
+|marinetraffic.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1041
 search-operate.cdn.bcebos.com
@@ -3914,7 +3914,7 @@ pl2-play.adtonos.com
 app.clearview.ai
 
 ! Linux Vendor Firmware Service
-fwupd.org
+|fwupd.org
 
 ! https://github.com/hagezi/dns-blocklists/issues/1055
 dogus-ads-cdn.dygdigital.com
@@ -3924,13 +3924,13 @@ dygassets.dygdigital.com
 static-v2.trbo.com
 
 ! Caesars Sportsbook Location - breaks app
-geocomply.com
+|geocomply.com
 
 ! Caesars Sportsbook Gametracker
 widgets.sir.sportradar.com
 
 ! Blocks Instantgames from Samsung
-pushmessage.samsung.com
+|pushmessage.samsung.com
 
 ! News
 thethings.com
@@ -3941,7 +3941,7 @@ weworkremotely.com
 www.weworkremotely.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1060
-sunwaydigitalwave.com.my
+|sunwaydigitalwave.com.my
 
 ! https://github.com/hagezi/dns-blocklists/issues/1061
 chatserver15.comm100.io
@@ -3971,7 +3971,7 @@ www.dooood.com
 cookie-cdn.cookiepro.com
 
 ! KatWarn
-kwrn.eu
+|kwrn.eu
 
 ! https://github.com/hagezi/dns-blocklists/issues/1070
 engage.vzw.com
@@ -4014,7 +4014,7 @@ www.boyter.org
 cmp.osano.com
 
 ! Testing glasses on misterspex.de
-api.ditto.com
+|api.ditto.com
 
 ! belongs to mxroute.com, no tracking
 pixel.mxrouting.net
@@ -4036,7 +4036,7 @@ skymedia.co.uk
 livechat.ivpn.net
 
 ! CNAMEs for volkswagen.de and others
-lighthouselabs.eu
+|lighthouselabs.eu
 
 ! Smartify app on iPhone
 api.smartify.org
@@ -4061,7 +4061,7 @@ q-r.to
 www.q-r.to
 
 ! 3d secure online payment of agricultural credit france
-eu.spgo.io
+|eu.spgo.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/1111
 subway.prod.sybo.net
@@ -4077,7 +4077,7 @@ stats-trafficcop-prod.nba.com
 stats-trafficcop-prod.nba.com.edgekey.net
 
 ! https://github.com/gjbae1212/hit-counter
-seeyoufarm.com
+|seeyoufarm.com
 
 ! graphs and maps based on data
 api.datawrapper.de
@@ -4088,16 +4088,16 @@ img.datawrapper.de
 eulerian.officiel-des-vacances.com
 officiel-des-vacances.eulerian.net
 vps.eulerian.net
-slgnt.eu.cdn.cloudflare.net
+|slgnt.eu.cdn.cloudflare.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1117
 widgets.jobbio.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1118
-poki-gdn.com
+|poki-gdn.com
 
 ! Bing Maps Documentation
-dev.virtualearth.net
+|dev.virtualearth.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1121
 i.hizliresim.com
@@ -4244,7 +4244,7 @@ cname.beehiiv.com
 link.mail.beehiiv.com
 
 ! Needed to view the offerings from https://www.buerger.de/unternehmen/werksverkauf/werksverkauf-ditzingen/
-createsend1.com
+|createsend1.com
 
 ! Prevent connection to the Cetelem account
 tr.notification.cetelem.fr
@@ -4261,7 +4261,7 @@ c.trackmytarget.com
 metric.picodi.com
 
 ! Commercial product for monitoring VDI environments
-controlup.com
+|controlup.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1210
 tracker.torrentbd.net
@@ -4271,7 +4271,7 @@ cdnjs.tacool.com
 fn-captcha.tacool.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1212
-wishpond.com
+|wishpond.com
 
 ! Prevents the documentation on docs.portainer.io from linking out properly
 cta-redirect.hubspot.com
@@ -4435,7 +4435,7 @@ www.xzone.cz
 api.dropboxapi.com
 consent.dropbox.com
 edge.dropboxstatic.com
-dropbox-dns.com
+|dropbox-dns.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1293
 time.akamai.com
@@ -4453,7 +4453,7 @@ rest-in-feedback.heytapmobile.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1296
 click.account.miro.com
-click-sap.sfmc-marketing.com
+|click-sap.sfmc-marketing.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1307
 assets.sentinelone.com
@@ -4469,7 +4469,7 @@ clk.asia
 www.clk.asia
 
 ! Cookies/Videos on various sites - moin.de
-consentmanager.net
+|consentmanager.net
 
 ! Update Freebox firmware
 fbx-firmware.proxad.net
@@ -4530,19 +4530,19 @@ randomuser.me
 www.randomuser.me
 
 ! WeChat
-cdntips.net
+|cdntips.net
 
 ! Images in various Mails
-cmail19.com
+|cmail19.com
 
 ! mobile websites, pages with links or online stores
 mssg.me
 www.mssg.me
 
 ! used in coveryourtracks.eff.org to test how fingerprintable you are
-trackersimulator.org
-eviltracker.net
-do-not-tracker.org
+|trackersimulator.org
+|eviltracker.net
+|do-not-tracker.org
 
 ! CBC Login
 login.cbc.ca
@@ -4566,13 +4566,13 @@ t.ionos.de
 ! Survey (Deutsche Telekom)
 survey.usabilla.com
 d6tizftlrpuof.cloudfront.net
-getfeedback.com
+|getfeedback.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1358
 events.7tv.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/1359
-lgtvsdp.com
+|lgtvsdp.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1361
 ipcheck.tmgrup.com.tr
@@ -4587,10 +4587,10 @@ doppler.hulu.com
 assets.huluim.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1363
-wpnrtnmrewunrtok.xyz
+|wpnrtnmrewunrtok.xyz
 
 ! https://github.com/hagezi/dns-blocklists/issues/1366
-game-mode.net
+|game-mode.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1371
 adcr.naver.com
@@ -4606,13 +4606,13 @@ shibboleth.main.ad.rit.edu
 worldnomads.com
 www.worldnomads.com
 
-carx-online.com
+|carx-online.com
 
 ! Referral links
 l.accesslinkk.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1374
-silknet.com
+|silknet.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1375
 tradehq.com
@@ -4625,7 +4625,7 @@ zconfig.alibabausercontent.com
 crm.zoho.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1377
-trustev.com
+|trustev.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1378
 ad.wpstr.tv
@@ -4644,7 +4644,7 @@ hreski.com
 www.hreski.com
 
 ! Pokemon TV App Stream
-content.video.llnw.net
+|content.video.llnw.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1384
 cosmote.net
@@ -4715,7 +4715,7 @@ www.guhantara.com
 builder-assets.unbounce.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1406
-accesstrade.co.id
+|accesstrade.co.id
 
 ! Government website
 vallettaferryservices.com
@@ -4743,7 +4743,7 @@ softadvice.informer.com
 software.informer.com
 
 ! UEDAS
-uedas.com.tr
+|uedas.com.tr
 
 ! https://github.com/hagezi/dns-blocklists/issues/1412
 tracking.pos.com.my
@@ -4783,7 +4783,7 @@ fmhy.net
 www.fmhy.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1426
-lekane.net
+|lekane.net
 
 ! MaleExtra
 maleextra.com
@@ -4799,7 +4799,7 @@ endpoint.mms.shopee.*
 pdamtbwkotasmi.co.id
 
 ! https://github.com/hagezi/dns-blocklists/issues/1429
-sweet.tv
+|sweet.tv
 
 ! https://github.com/hagezi/dns-blocklists/issues/1431
 aa.online-metrix.net
@@ -4852,7 +4852,7 @@ robvanderwoude.com
 www.robvanderwoude.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1449
-pressablecdn.com
+|pressablecdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1450
 blocket.se
@@ -4861,7 +4861,7 @@ www.blocket.se
 ! https://github.com/hagezi/dns-blocklists/issues/1453
 redirect622.tagcommander.com
 ubiservices.data.ubi.com
-ubiservices.ubi.com
+|ubiservices.ubi.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1454
 tr.ee
@@ -4901,13 +4901,13 @@ data.digital.costco.com
 suite*.emarsys.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1468
-fs1.hubspotusercontent-na1.net
-fs2.hubspotusercontent-na1.net
-fs1.hubspotusercontent-eu1.net
-fs2.hubspotusercontent-eu1.net
+|fs1.hubspotusercontent-na1.net
+|fs2.hubspotusercontent-na1.net
+|fs1.hubspotusercontent-eu1.net
+|fs2.hubspotusercontent-eu1.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1472
-track.toggl.com
+|track.toggl.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1473
 oshi.at
@@ -4941,7 +4941,7 @@ starzplay.com
 www.starzplay.com
 
 ! Breaks Turkish government systems
-edevlet.gov.tr
+|edevlet.gov.tr
 
 ! https://github.com/hagezi/dns-blocklists/issues/1490
 dht.aelitis.com
@@ -4954,10 +4954,10 @@ cdn.bootcdn.net
 www.4x4brasil.com.br
 
 ! https://github.com/hagezi/dns-blocklists/issues/1493
-static-bahn.de
+|static-bahn.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/1492
-internet.apps.samsung.com
+|internet.apps.samsung.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1494
 tracking.urbn.com
@@ -4976,7 +4976,7 @@ w-api.baomoi.com
 br.eml.walgreens.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1500
-rackcdn.com
+|rackcdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1497
 c.webengage.com
@@ -5009,7 +5009,7 @@ www.smotretanime.ru
 
 ! Electricity meter for Tibber (Lab functions)
 api.rudderlabs.com
-rudderstack.com
+|rudderstack.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1509
 en.financerites.com
@@ -5029,7 +5029,7 @@ meeting.tencent.com
 graph.facebook-hardware.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1518
-gov.ua
+|gov.ua
 
 ! https://github.com/hagezi/dns-blocklists/issues/1523
 lemmynsfw.com
@@ -5042,10 +5042,10 @@ tracking.airmee.com
 connect.intl.rom.miui.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1526
-app.ringcentral.com
+|app.ringcentral.com
 
 ! Podcast app
-fountain.fm
+|fountain.fm
 
 ! https://github.com/hagezi/dns-blocklists/issues/1530
 cdn.membershipworks.com
@@ -5085,3 +5085,27 @@ sni1gl.wpc.nucdn.net
 sideshow.com
 www.sideshow.com
 sideshow.queue-it.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1544
+languageacademy.com.au
+www.languageacademy.com.au
+
+! Webhosting
+netcup.net
+www.netcup.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1547
+|ls.apple.com
+|ls.apple.com.edgesuite.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1546
+checkappexec.microsoft.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1545
+digitalservices.missionfed.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1548
+superbook.cbn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1549
+login-dhl-de.api.eu.janrain.com
