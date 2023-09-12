@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-11 21:12:03 UTC                        #
+# Last updated: 2023-09-12 05:19:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+mycollection-my.xyz
+morevita-my.xyz
+coinflore-my.xyz
+gapi-node.io
+blockall-my.xyz
+westwork-my.xyz
+many-verses.xyz
+fastcloudlife-my.xyz
+ollfiles-my.xyz
+dropfiles-my.xyz
+downloadfiles-my.xyz
+clonecloud-my.xyz
+diavellipromo-my.xyz
+skicloud-my.xyz
+vipmusic-my.xyz
+agustfreeday-my.xyz
+gstatic-node.io
+mozk.top
+net.mozk.top
+cristinaamaro.com
+lintingdaun.com
+service-a83yg9pg-1307556005.gz.apigw.tencentcs.com
+financialservicesunion.com
 www.mixz.shop
 titanaquaplus.xyz
 westwork-my.xyz
@@ -14511,6 +14534,4 @@ virginiaservice.org
 devoinnanote.com
 bestbrandhubercenter.com
 service-intpwz8r-1301841391.bj.apigw.tencentcs.com
-amsterdam.keyrock.eu.com
-www.nopsled.ninja
-# Number of entries: 14507
+# Number of entries: 14528
