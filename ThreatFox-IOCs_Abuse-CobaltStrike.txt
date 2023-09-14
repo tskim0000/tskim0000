@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-12 05:19:13 UTC                        #
+# Last updated: 2023-09-14 01:40:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+pic.micros0ft-security.org
+service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
+www.5cq.com
+service-d1yss7wi-1314780031.nj.apigw.tencentcs.com
+download.updatebrowser.cn
+app.baidu-soft.com
+d1qzl7xiwymjyn.cloudfront.net
+sectorzerosecurity.com
+bikeontop.shop
+dreamteamup.shop
+positivereview.cloud
+whatup.cloud
+gurdubigoma.com
+gapi-alpha.io
+xdanetnow.duckdns.org
+restohalto.site
+casualscorner.com
+silentlegion.duckdns.org
+service-lqymkqhs-1306655841.gz.apigw.tencentcs.com
+clouds.localhost-microsoft.com
+t.takaelot.com
+sirr.tiscali.buzz
+criminalaffair.com
+www.criminalaffair.com
+collins.solariseng.icu
+baldu.wiki
+cdn.jscriptstore.com
+access.samp-loader.ru
+bot.samp-loader.ru
+api.samp-loader.ru
+devopszone.org
+detectportalupdate.ru
 mycollection-my.xyz
 morevita-my.xyz
 coinflore-my.xyz
@@ -4603,7 +4635,6 @@ y-enhancing.at.ply.gg
 name-shadows.at.ply.gg
 gunitp.duckdns.org
 inthepinvbxss.duckdns.org
-words-cells.joinmc.link
 even-lat.at.ply.gg
 okaa0-51499.portmap.host
 xwrm.webredirect.org
@@ -14524,14 +14555,4 @@ set.hik.icu
 crazydns.linkpc.net
 cdn.contentsecure.net
 homely-ecbhbqd3fdashda7.z01.azurefd.net
-cs.docker-compose-update.com
-bot.ddosing.online
-bmarch459.sytes.net
-top.noforabusers1.xyz
-arrowlchat.com
-service-jnbjutxg-1304098235.hk.apigw.tencentcs.com
-virginiaservice.org
-devoinnanote.com
-bestbrandhubercenter.com
-service-intpwz8r-1301841391.bj.apigw.tencentcs.com
-# Number of entries: 14528
+# Number of entries: 14549
