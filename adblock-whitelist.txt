@@ -5107,3 +5107,42 @@ superbook.cbn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1549
 login-dhl-de.api.eu.janrain.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1551
+p-geo.movetv.com
+
+! Life 360
+android.life360.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1556
+wirple.com
+www.wirple.com
+web.basemark.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1555
+sissyflix.com
+www.sissyflix.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1558
+stun.l.google.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1560
+app.chat.xiaomi.net
+
+! RaiDrive, a cloud software for Windows
+app.raidrive.com
+
+! MagentaCloud login
+tags-eu.tiqcdn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1561
+elpais.es
+www.elpais.es
+
+! https://github.com/hagezi/dns-blocklists/issues/1563
+ratemyteachers.com
+www.ratemyteachers.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1564
+createsend.com
+www.createsend.com
