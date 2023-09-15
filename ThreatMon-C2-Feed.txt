@@ -39,7 +39,6 @@ notnaranrontert.host
 114.233.26.233
 43.152.215.179
 201.35.156.245
-notnaranrontert.host
 193.151.150.235
 217.195.149.25
 49.247.36.29
@@ -3154,7 +3153,6 @@ vilenefex.ru
 ttraff.me
 golowaki.ru
 cafij.co.za
-drive.google.com
 cctraff.ru
 trafffi.ru
 ggtraff.ru
@@ -3163,7 +3161,6 @@ traffmen.ru
 trafftec.ru
 ttraff.com
 ttraff.ru
-traffine.ru
 152.89.198.29
 docs-shared.com
 traffking.ru
