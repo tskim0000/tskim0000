@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-14 01:40:29 UTC                        #
+# Last updated: 2023-09-15 08:30:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+astrolco.fun
+doggyguffy.fun
+fartyfun.fun
+fireworld.fun
+funnycox.fun
+markuschop.fun
+treepledeeple.fun
+factch.top
+pleaz.top
+torget.top
+treef.top
+gr.treef.top
+no.pleaz.top
+out.torget.top
+slo.factch.top
+footslou.fun
+slimtvsocico.fun
+magaway.fun
+rovengold.fun
+gunstormonl.fun
+morefilmsfree.fun
+shoppervik.fun
+dachhost.top
+selfam.dachhost.top
+eblaghshekayatname.hyperphp.com
+drepwer-phontestmans.sbs
+suchitanandanmahavidyalaya.org
+cs45upb230906a.iqiyid.com
+upbetanetworks.org
+awsglobalaccelerator.awsliveec.com
+www.baidusec.top
+ms-endpoint.com
+cdn.ms-endpoint.com
+505406lm.nyashkoon.top
+secure-online.site
+e9f0dkd.c1.biz
+ske9dhn.c1.biz
+thecookieisthere.duckdns.org
+doorspa.shop
+slucasanderson.ddns.net
+doorbackup.sbs
+sparaback.com
+easywinscp.xyz
+winscphub.com
+cdromcsc.com
+minutozhart.online
+antmanspshopsman.com
+antmanspshopsman.life
+coocooncookiedpo.com
+drkgatevservicceoffice.net
+naserviceebaysmman.shop
+msteamseyeappstore.com
+wmnwserviceadsmark.com
+gctatick.com
 pic.micros0ft-security.org
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
 www.5cq.com
@@ -14542,17 +14596,4 @@ villageskaier.com
 viskocompetr.com
 wazxlerasta.com
 nestleservers.xyz
-skanfordiporka.com
-portal.atlassian.eu.com
-yun.1wkxpfzmtvdkvekpro.xyz
-service-nllkzxuw-1301998990.hk.apigw.tencentcs.com
-service-h4bdnsdd-1310746889.sh.apigw.tencentcs.com
-herbswallow.com
-midasconsilium.com
-fuckallav.ru
-service-ryhpqppg-1310630981.gz.apigw.tencentcs.com
-set.hik.icu
-crazydns.linkpc.net
-cdn.contentsecure.net
-homely-ecbhbqd3fdashda7.z01.azurefd.net
-# Number of entries: 14549
+# Number of entries: 14590
