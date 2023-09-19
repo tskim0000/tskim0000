@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-09-18 06:28:18 UTC                        #
+# Last updated: 2023-09-19 06:13:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+dasautoco.top
+fastde.top
+car.dasautoco.top
+bax-teko.com
+navid.inthenameofnull.site
+inthenameofnull.site
+nexgenemi.com
+ptzbubble.shop
+trpihgram.space
+kopping.duckdns.org
+newsbizshow.net
+shareboxs.net
+www.gdstictk.buzz
+buy-n-go.info
+charge-web.info
+deluxe-mall.info
+eco-mall.info
+ecomall.info
+flamefork3.com
+megamalll.info
+mtymall.info
+posngoappg.com
+posngoappm.com
+posngoappk.com
+posngoappp.com
+posngoapps.com
+posngoappu.com
+posngoappx.com
+posngovipappa.com
+the-maids.info
+zer0-dust.com
+utilityupdate.com
 pik96.ru
 rosatiauto.com
 gudintas.at
@@ -18,7 +50,6 @@ uploads.dachhost.top
 greedyclowns.org
 cpp.fastde.top
 1398747042169696.cn-hangzhou.fc.aliyuncs.com
-ajax.microsoft.com
 c1.flashjick.top
 service-p54klbhi-1300810596.gz.apigw.tencentcs.com
 stackpath-analytics-gpvlqzqeda-uc.a.run.app
@@ -14672,15 +14703,4 @@ yekuvob.com
 huhidefe.com
 dehuvowomo.com
 loadpixelstat.com
-blog.habitsforbetterhealth.com
-powersupportplan.com
-d3iox1tjepb92.cloudfront.net
-h-k.lu
-www.qiutest1.tk
-louvre.abudhabe.info
-ds8v3gllwhqrf.cloudfront.net
-service-o5t8eebz-1313934947.sh.apigw.tencentcs.com
-gabovikedo.com
-napokirup.com
-open.alipay.com.wswebpic.com
-# Number of entries: 14677
+# Number of entries: 14697
