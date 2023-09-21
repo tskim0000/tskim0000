@@ -5205,3 +5205,24 @@ tracking.packeta.com
 ! Drivers ...
 driverpack.io
 www.driverpack.io
+
+! https://github.com/hagezi/dns-blocklists/issues/1593
+s7d2.scene7.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1594
+compricer.se
+www.compricer.se
+
+! https://github.com/hagezi/dns-blocklists/issues/1596
+wmflabs.org
+www.wmflabs.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1597
+eth.limo
+www.eth.limo
+
+! https://github.com/hagezi/dns-blocklists/issues/1598
+monitoring.*.amazonaws.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1600
+www-linkedin-com.l-0005.l-msedge.net
