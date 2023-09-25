@@ -25,6 +25,7 @@ bbuseruploads.s3.amazonaws.com
 s3.amazonaws.com
 s3-*-w.amazonaws.com
 s3-*-w.*.amazonaws.com
+s3.dualstack.*.amazonaws.com
 
 ! Amazon Devices
 acsechocaptiveportal.com
@@ -80,6 +81,7 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
+aax-us-iad.amazon.com
 m.media-amazon.com
 ! Amazon.com
 d3ag4hukkh62yn.cloudfront.net
@@ -164,6 +166,8 @@ reputation.rewards.brave.com
 rewards.brave.com
 search.anonymous.ads.brave.com
 static.ads.brave.com
+go-updater.brave.com
+laptop-updates.brave.com
 
 ! Certificates
 digicert.com
@@ -5226,3 +5230,58 @@ monitoring.*.amazonaws.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1600
 www-linkedin-com.l-0005.l-msedge.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1605
+pandapush-iad-prod.inscloudgate.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1606
+gpubandwidthcalculator.totalh.net
+
+! Steam Cloud saves
+steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1608
+bolt.dropbox.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1611
+run.mocky.io
+
+! https://github.com/hagezi/dns-blocklists/issues/1612
+metrics.heroku.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1613
+cdn.*.exponea.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1614
+trk.ecomm.lenovo.com
+sendgrid-secure.bluecore.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1616
+slackb.com
+www.slackb.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1617
+register.xmpush.xiaomi.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1619
+t.paydaythegame.com
+gsght.com
+www.gsght.com
+
+! Travel guide
+reseguiden.se
+www.reseguiden.se
+
+! Spam protection for WordPress, Joomla, Drupal, and any other websites
+cleantalk.org
+www.cleantalk.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1620
+smartsheet.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1622
+almaweb.uni-leipzig.de
+
+! Occult type site that has articles on symbology and how this are used to shape opinion
+vigilantcitizen.com
+www.vigilantcitizen.com
