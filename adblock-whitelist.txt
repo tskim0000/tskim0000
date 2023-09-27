@@ -239,6 +239,7 @@ mobilecrashreporting.googleapis.com
 optimizationguide-pa.googleapis.com
 play.googleapis.com
 playmoviesdfe-pa.googleapis.com
+safebrowsing.googleapis.com
 semanticlocation-pa.googleapis.com
 smartlock.google.com
 userlocation.googleapis.com
@@ -5285,3 +5286,26 @@ almaweb.uni-leipzig.de
 ! Occult type site that has articles on symbology and how this are used to shape opinion
 vigilantcitizen.com
 www.vigilantcitizen.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1626
+ausha.tsbluebox.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1629
+vmz-ad-cf.video.tidal.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1630
+spyfu.com
+www.spyfu.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1632
+wlo.link
+www.wlo.link
+link.space
+www.link.space
+
+! PE Blog
+blog.pixelexperience.org
+g.ezoic.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1633
+tracking.postnord.com
