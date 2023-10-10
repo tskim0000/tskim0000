@@ -8,8 +8,10 @@
 ! Videos
 swankyrule.zomap.de
 ! Bild.de
-tags.tiqcdn.com
 www.asadcdn.com
+! Bild.de/ Paramount+ saving the video progress
+tags.tiqcdn.com
+
 ! Express.de Videos
 player-feedback-v1.glomex.com
 
@@ -263,6 +265,8 @@ discovery.meethue.com
 dp.dc1.philips.com
 ws.meethue.com
 www.ecdinterface.philips.com
+! https://github.com/hagezi/dns-blocklists/issues/1672
+data.meethue.com
 
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
@@ -401,11 +405,6 @@ services.gfe.nvidia.com
 ! Proctorio
 proctor.io
 proctorio.com
-! Proctorio / Postbank
-bam.eu01.nr-data.net
-bam-eu01.cell.eu.nr-data.net
-tls12.eu01.nr-data.net.cdn.cloudflare.net
-fastly-tls12-bam.eu01.nr-data.net
 
 ! Revenaced
 revanced.app
@@ -2087,12 +2086,6 @@ www.kutt.it
 recommender*.scarabresearch.com
 images.cdn.scarabresearch.com
 
-! Breaks paypal pay process on some german shopping sites
-siteintercept.qualtrics.com
-siteintercept.qprod2.net
-prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
-*paypal*.siteintercept.qualtrics.com
-
 ! Aim Lab aimlab.gg passwort reset
 ct.sendgrid.net
 
@@ -2996,12 +2989,11 @@ assets-secure.applicaster.com
 *pitaya*.byteoversea.com
 *pitaya*.snssdk.com
 *pitaya*.tiktok*.com
-mon*-*.tiktok*.com
-! mon*-checkout*.tiktok*.com
-! mon*-normal*.tiktok*.com
-! mon*-platform*.tiktok*.com
-! mon*-tmp*.tiktok*.com
-! mon*-i*.tiktok*.com
+! mon*-*.tiktok*.com
+mon*-checkout*.tiktok*.com
+mon*-normal*.tiktok*.com
+mon*-platform*.tiktok*.com
+mon*-tmp*.tiktok*.com
 *mssdk*.byteoversea.com
 *mssdk*.snssdk.com
 *mssdk*.tiktok*.com
@@ -4964,7 +4956,7 @@ www.4x4brasil.com.br
 static-bahn.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/1492
-internet.apps.samsung.com
+terms.internet.apps.samsung.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1494
 tracking.urbn.com
@@ -4983,7 +4975,8 @@ w-api.baomoi.com
 br.eml.walgreens.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1500
-rackcdn.com
+ciscobinary.openh264.org
+a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1497
 c.webengage.com
@@ -5251,6 +5244,9 @@ run.mocky.io
 metrics.heroku.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1613
+cdn.eu1.exponea.com
+cdn.uk.exponea.com
+cdn.us1.exponea.com
 cdn.*.exponea.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1614
@@ -5309,3 +5305,145 @@ g.ezoic.net
 
 ! https://github.com/hagezi/dns-blocklists/issues/1633
 tracking.postnord.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1634
+consent.unilad.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1635
+m.icares.app
+
+! legit business that serves up map tile
+api.radar.io
+
+! Breaks plan your journey on stagecoachbus.com
+s7.addthis.com
+s8.addthis.com
+ds-s7.addthis.com.edgekey.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1639
+minecraft.wiki
+www.minecraft.wiki
+
+! breaks invoicing
+t.stripe.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1641
+decision-rbc.taplytics.com
+taplytics.steroyalbank.com
+taplytics.royalbank.com
+
+! News in Yahoo Finance App
+m.yap.yahoo.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1645
+wg.spotify.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1644
+web.smgus.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1648
+adnotifications.windowsazure.com
+
+! sport bettings
+bet365.it
+www.bet365.it
+
+! https://github.com/lightswitch05/hosts/issues/418
+gethatch.com
+www.gethatch.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1649
+shop.qrp-labs.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1653
+u.cubeupload.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1655
+app.response.oracle-mail.com
+s1973398186.t.en25.com
+t.en25.com
+
+! Help
+help.batch.com
+ws.batch.com
+
+! Newsletter unsubscribe
+unsubscribe.prod.leanplum.com
+
+! AliExpress Startpage links
+campaign.aliexpress.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1656
+strm.yandex.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1659
+vimeo.com
+www.vimeo.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1660
+fc.vodafone.de
+was.vodafone.de
+vodafone.de.ssl.d2.sc.omtrdc.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1663
+humansecurity.com
+www.humansecurity.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1670
+tunnels.api.visualstudio.com
+devtunnels.ms
+www.devtunnels.ms
+
+! https://github.com/hagezi/dns-blocklists/issues/1666
+rebrand.ly
+www.rebrand.ly
+
+! https://github.com/hagezi/dns-blocklists/issues/1667
+ziffdavis.com
+www.ziffdavis.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1669
+goo.su
+www.goo.su
+
+! pizzamann-bringdienst.de
+pizza7.jelastic.dogado.eu
+
+! https://github.com/hagezi/dns-blocklists/issues/1671
+topclassactions.acemlnb.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1673
+m.recipes.timesofindia.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1677
+icfcollege.thinkific.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1678
+getpagespeed.com
+www.getpagespeed.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1682
+glitchtip.jgeek00.com
+
+! Weather and airplane tracking
+live.flightservicesv2.datasavannah.com
+assets.flightservicesv2.datasavannah.com
+weatherservices.datasavannah.com
+
+! Video thumbnails
+assets-jpcust.jwpsrv.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1687
+gateway.ipfs.io
+gateway.pinata.cloud
+
+! https://github.com/hagezi/dns-blocklists/issues/1689
+bigberthaoriginal.cz
+www.bigberthaoriginal.cz
+
+! Payments in Mojo App (iOS)
+api.superwall.me
+cdn.superwall.me
+
+! https://github.com/hagezi/dns-blocklists/issues/1691
+mx.technolutions.net
