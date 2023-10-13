@@ -5450,3 +5450,15 @@ cdn.superwall.me
 
 ! https://github.com/hagezi/dns-blocklists/issues/1691
 mx.technolutions.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1693
+cdn.debugbear.com
+data.debugbear.com
+debugbear.com
+www.debugbear.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1694
+skyticket.sky.de
+
+! https://github.com/hagezi/dns-blocklists/issues/1698
+capture.trackjs.com
