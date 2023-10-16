@@ -1910,9 +1910,6 @@ js.klevu.com
 ! Dicks Sporting Goods website catalog will not show product listings
 tag.dickssportinggoods.com
 
-! T-Mobile Tuesdays in-app messages
-device-api.urbanairship.com
-
 ! kohls.com product catalog images
 stylitics.com
 www.stylitics.com
@@ -5462,3 +5459,23 @@ skyticket.sky.de
 
 ! https://github.com/hagezi/dns-blocklists/issues/1698
 capture.trackjs.com
+
+! customer management panel
+so.n11.com
+
+! Canton fair exhibition
+invitation.cantonfair.org.cn
+m.invitation.cantonfair.org.cn
+image.invitation.cantonfair.org.cn
+
+! https://github.com/hagezi/dns-blocklists/issues/1707
+microsoftstart.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1710
+uk-qhs2.reedbusiness.net
+
+! Reverse image search on Baidu
+mo.baidu.com
+
+! Cybersec company
+redalert.nshc.net
