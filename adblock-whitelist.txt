@@ -2983,9 +2983,9 @@ assets-secure.applicaster.com
 *gecko*.byteoversea.com
 *gecko*.snssdk.com
 *gecko*.tiktok*.com
-*mcs*.byteoversea.com
-*mcs*.snssdk.com
-*mcs*.tiktok*.com
+!*mcs*.byteoversea.com
+!*mcs*.snssdk.com
+!*mcs*.tiktok*.com
 *pitaya*.byteoversea.com
 *pitaya*.snssdk.com
 *pitaya*.tiktok*.com
@@ -2994,9 +2994,9 @@ mon*-checkout*.tiktok*.com
 mon*-normal*.tiktok*.com
 mon*-platform*.tiktok*.com
 mon*-tmp*.tiktok*.com
-*mssdk*.byteoversea.com
-*mssdk*.snssdk.com
-*mssdk*.tiktok*.com
+!*mssdk*.byteoversea.com
+!*mssdk*.snssdk.com
+!*mssdk*.tiktok*.com
 direct*.*proxy*.byteglb.com
 
 ! Live Chat on https://www.coextro.com/
@@ -5479,3 +5479,15 @@ mo.baidu.com
 
 ! Cybersec company
 redalert.nshc.net
+
+! Used by cpanel for setup
+cprapid.com
+www.cprapid.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1715
+whitecoatinvestor.com
+www.whitecoatinvestor.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1714
+asusiran.com
+www.asusiran.com
