@@ -5491,3 +5491,13 @@ www.whitecoatinvestor.com
 ! https://github.com/hagezi/dns-blocklists/issues/1714
 asusiran.com
 www.asusiran.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1716
+online.unionbankph.com
+
+! Images in newsletters
+cdn.mcauto-images-production.sendgrid.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1718
+payusatax.com
+www.payusatax.com
