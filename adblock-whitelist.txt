@@ -5501,3 +5501,6 @@ cdn.mcauto-images-production.sendgrid.net
 ! https://github.com/hagezi/dns-blocklists/issues/1718
 payusatax.com
 www.payusatax.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1725
+ppp.contentdef.com
