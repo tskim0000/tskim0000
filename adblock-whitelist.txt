@@ -145,6 +145,7 @@ trackingshipment.apple.com
 ! Homepod reports "no internet connection"
 ! https://github.com/hagezi/dns-blocklists/issues/930
 xp.apple.com
+xp.itunes-apple.com.akadns.net
 
 ! Brave (plugins)
 ads.brave.com
@@ -392,7 +393,7 @@ rewardsprod.trafficmanager.net
 rewardsplatform.microsoft.com
 
 ! Netflix
-! Prevents Netflix from continuing to play videos where you stopped or paused them
+! Prevents Netflix from continuing to play videos where you stopped or paused them?
 ichnaea*.netflix.com
 
 ! NVidia
@@ -772,10 +773,6 @@ licenses.ashampoo.com
 ! n-tv Web livestream
 te.technical-service.net
 te.ip-prod.aws-cbc.cloud
-
-! n-tv / RTL+ App videos
-des.smartclip.net
-ad-ipd.sxp.smartclip.net
 
 ! https://github.com/badmojr/1Hosts/issues/553
 api.revenuecat.com
@@ -5504,3 +5501,41 @@ www.payusatax.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1725
 ppp.contentdef.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1730
+sitereview.symantec.com
+
+! Debug site for Fastly
+u.fastly-analytics.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1731
+api.addressy.com
+
+! Mcrosoft Account Recovery
+clientconfig.passport.net
+
+! Cookies on nytimes.com
+purr.nytimes.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1733
+track.4px.com
+
+! Itemshop in various games
+analytics.tripwireinteractive.com
+
+! Textra SMS app
+smsgateway.textra.me
+
+! https://github.com/hagezi/dns-blocklists/issues/1736
+affiliates.nordvpn.com
+
+! Adblock Detection derstandard.at
+npttech.com
+www.npttech.com
+
+! Free Download Manager download
+files.freedownloadmanager.org
+files2.freedownloadmanager.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1740
+gs.statcounter.com
