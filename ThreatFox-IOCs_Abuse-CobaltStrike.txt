@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-10-23 00:02:30 UTC                        #
+# Last updated: 2023-10-24 08:19:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+google.luccycatch.tech
+senpaireek.fun
+adls.dns05.com
+irhs.faqserv.com
+dsa.itsaol.com
+dmns.itsaol.com
+dgfh.dns05.com
+shm.faqserv.com
+adls.vizvaz.com
+adla.faqserv.com
+ads.fartit.com
+adq.dns05.com
+adlg.dns05.com
+adl-vv.mrface.com
+ecs-119-3-253-250.compute.hwclouds-dns.com
+cdn.amazon-shopping.nl
+ns.365ub.cn
+ns2.h1ll0.cs.in
+ns1.h1ll0.cs.in
+placengine.site
+chromiumengine.space
+basechromium.space
+dot.healthtricks101.com
+ns5.luccycatch.tech
+ns4.luccycatch.tech
+ns0.luccycatch.tech
+172-105-234-48.ip.linodeusercontent.com
+sagro.b0t.me
+update.windows-push.com
+ama23.amlbot.ug
+ecs-114-115-210-125.compute.hwclouds-dns.com
+ts.appliedrc.com
+www.159-203-95-49.cprapid.com
+vpn500541278.softether.net
+www.unruffled-heyrovsky.68-183-220-248.plesk.page
+cert.casacam.net
+914095669.box.freepro.com
+bitwarden-server.payloads.online
+vip.cesig8.online
+alexis-dasilva.pro
 adlriran.com
 carrent.business
 qstories.today
@@ -22777,16 +22817,4 @@ liloskyxpgrot.duckdns.org
 auronavtimor.com
 ewyersbetter.com
 www.speech-microsoft.com
-nguyentatthanh.ml
-awssecupdate.com
-absolutbackup.com
-neropasika.co
-rupeika.info
-service-6e3glral-1301841391.bj.apigw.tencentcs.com
-q.yobuy01.com
-fg56ds.azurewebsites.net
-myserveur855.cc
-73uu.com
-static.dingtalk.com
-service-na956zr6-1309996193.gz.apigw.tencentcs.com
-# Number of entries: 22783
+# Number of entries: 22811
