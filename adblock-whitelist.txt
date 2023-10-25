@@ -5542,3 +5542,27 @@ gs.statcounter.com
 
 ! Breaks ko-fi.com
 storage.ko-fi.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1748
+explore.amd.com
+
+! Torrent Tracker
+tracker.bitturk.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1749
+bstats.org
+www.bstats.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1750
+dub.sh
+www.dub.sh
+
+! ipv64.net // rpicloud.de // schroederdennis.de // prox-it.de // prox-spot.de
+schroederdennis.de
+www.schroederdennis.de
+
+! https://github.com/hagezi/dns-blocklists/issues/1751
+linkvertise.com
+www.linkvertise.com
+linkvertise.net
+www.linkvertise.net
