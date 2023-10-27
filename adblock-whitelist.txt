@@ -5583,3 +5583,9 @@ www.wallpapercave.com
 ! Surveys
 ql.tc
 www.ql.tc
+
+! unsubscribe from newsletters
+email.streamhub.tech
+
+! QR Code links
+dominos.sng.link
