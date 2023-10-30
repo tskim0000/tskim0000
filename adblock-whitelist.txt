@@ -5589,3 +5589,27 @@ email.streamhub.tech
 
 ! QR Code links
 dominos.sng.link
+
+! https://github.com/hagezi/dns-blocklists/issues/1761
+asn.com
+www.asn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1763
+mgln.ai
+
+! https://github.com/hagezi/dns-blocklists/issues/1764
+static.efukt.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1768
+micro.rubiconproject.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1769
+4fstore.com
+www.4fstore.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1770
+metrics.torproject.org
+
+! Viewing progress in the RTL+
+! https://github.com/hagezi/dns-blocklists/issues/1773
+vp-event-receiver.userdata-prod.aws-cbc.cloud
