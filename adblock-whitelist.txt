@@ -5613,3 +5613,12 @@ metrics.torproject.org
 ! Viewing progress in the RTL+
 ! https://github.com/hagezi/dns-blocklists/issues/1773
 vp-event-receiver.userdata-prod.aws-cbc.cloud
+
+! Zynga Games
+api.zynga.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1777
+static-forms.klaviyo.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1778
+tracker.dragontail.com
