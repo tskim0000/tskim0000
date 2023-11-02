@@ -5622,3 +5622,7 @@ static-forms.klaviyo.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1778
 tracker.dragontail.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1780
+homedepot.sjv.io
+locate.pricespider.com
