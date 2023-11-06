@@ -2974,26 +2974,16 @@ api.loganalytics.io
 assets-secure.applicaster.com
 
 ! TikTok
-*frontier*.byteoversea.com
-*frontier*.snssdk.com
-*frontier*.tiktokv.com
-*gecko*.byteoversea.com
-*gecko*.snssdk.com
-*gecko*.tiktok*.com
-!*mcs*.byteoversea.com
-!*mcs*.snssdk.com
-!*mcs*.tiktok*.com
-*pitaya*.byteoversea.com
-*pitaya*.snssdk.com
-*pitaya*.tiktok*.com
-! mon*-*.tiktok*.com
+mon*-applog*.tiktok*.com
 mon*-checkout*.tiktok*.com
 mon*-normal*.tiktok*.com
 mon*-platform*.tiktok*.com
 mon*-tmp*.tiktok*.com
-!*mssdk*.byteoversea.com
-!*mssdk*.snssdk.com
-!*mssdk*.tiktok*.com
+mssdk*-applog*.tiktok*.com
+mssdk*-checkout*.tiktok*.com
+mssdk*-normal*.tiktok*.com
+mssdk*-platform*.tiktok*.com
+mssdk*-tmp*.tiktok*.com
 direct*.*proxy*.byteglb.com
 
 ! Live Chat on https://www.coextro.com/
@@ -3758,13 +3748,6 @@ www.keslerscience.com
 ! https://github.com/hagezi/dns-blocklists/issues/996
 news9.com
 www.news9.com
-
-! https://github.com/hagezi/dns-blocklists/issues/998
-umami.is
-www.umami.is
-plausible.io
-www.plausible.io
-custom.plausible.io
 
 ! https://github.com/hagezi/dns-blocklists/issues/999
 cvf.shopee.*
@@ -5626,3 +5609,28 @@ tracker.dragontail.com
 ! https://github.com/hagezi/dns-blocklists/issues/1780
 homedepot.sjv.io
 locate.pricespider.com
+
+! Confirm an email address when registering
+mailing.serviceclients.leclerc
+secure.mydialoginsight.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1785
+catalog.gamepass.com
+
+! Legacy endpoints AWS
+queue.amazonaws.com
+
+! Contact Form
+go.pace.uwinnipegcourses.ca
+
+! https://github.com/hagezi/dns-blocklists/issues/1786
+premium.wix.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1789
+tracking.route.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1790
+secure.dhgate.com
+
+! Delivery tracking
+tracking.sundarbancourierltd.com
