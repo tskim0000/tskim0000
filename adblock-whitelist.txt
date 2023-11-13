@@ -5648,3 +5648,25 @@ picnic.slgnt.eu
 ! https://github.com/hagezi/dns-blocklists/issues/1808
 trashmail.com
 www.trashmail.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1811
+shared.cdn.smp.schibsted.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1807#issuecomment-1806614383
+service.lgtvcommon.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1815
+ngrok.com
+www.ngrok.com
+ngrok.io
+www.ngrok.io
+
+! Needed for A101 Application
+a101.wawlabs.com
+wa.wawlabs.com
+
+! Binance chain
+bnbchain.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1818
+a1.api.bbc.co.uk
