@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-11-12 17:22:57 UTC                        #
+# Last updated: 2023-11-14 06:40:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+muphantom.online
+us3.localto.net
+road.peerscash.com
+www.domainsec.club
+donotopenthis.zip
+cleansoft.fun
+clearcracksoft.fun
+clearcracksoft.xyz
+cleansoft.xyz
+dl.tehranuniversity.website
+ns5006633.ip-51-79-230.net
+ec2-52-204-111-102.compute-1.amazonaws.com
+vps-243c526b.vps.ovh.net
+www.chromewebkit.com
+ec2-35-178-203-77.eu-west-2.compute.amazonaws.com
+microsoft.net.linkpc.net
+storageapis.gotdns.ch
+longlakeweb.com
+download.windowsupdate.mom
+jedi.piupiu.top
 moskhoods.pw
 cembec.pics
 ed.sarltma.rest
@@ -24954,50 +24974,4 @@ ns.edahua.top
 hidden.locati.top
 usizevuru.biz
 gintoonafa.com
-taguje05.top
-ubyjcf23.top
-ubypot24.top
-ubyyml34.top
-larekado.top
-moidiq04.top
-moijga08.top
-moioch02.top
-moisle05.top
-moizin07.top
-pafirh01.top
-qatalt04.top
-qatdta05.top
-qatfil07.top
-qatgia10.top
-qathai01.top
-qatska08.top
-qatxay02.top
-rymcsa03.top
-rymtal05.top
-tagquh07.top
-tagsbe10.top
-tagufz03.top
-akityr06.top
-bugese07.top
-bugshe06.top
-buguid08.top
-bugwol09.top
-chufen63.top
-ewzcjo511.top
-sovodeceni.online
-helloworld.testediliyoruz.workers.dev
-www.newbing.fyi
-www.darkerstan.top
-actistesting.com
-zx.vm3dservice.com
-as.vm3dservice.com
-qw.vm3dservice.com
-thetechnicalassistant.com
-edu.hicomputing.huawei.com
-xytcdn.hongmengchuangke.com
-pinganlife.office365update.cn
-baidu.office365update.cn
-anunankis1.duckdns.org
-faq.medecinsansfrontiere.fr
-jasonbourneblack.ddns.net
-# Number of entries: 24994
+# Number of entries: 24968
