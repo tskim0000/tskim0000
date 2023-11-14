@@ -5670,3 +5670,9 @@ bnbchain.org
 
 ! https://github.com/hagezi/dns-blocklists/issues/1818
 a1.api.bbc.co.uk
+
+! https://github.com/hagezi/dns-blocklists/issues/1822
+content.covantagecu.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1820
+dc.railgun.works
