@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-11-14 06:40:39 UTC                        #
+# Last updated: 2023-11-14 15:03:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+service-k046gp6x-1252319062.bj.apigw.tencentcs.com
+netskope0.azureedge.net
+service-2w198e2r-1308639534.sh.apigw.tencentcs.com
 muphantom.online
 us3.localto.net
 road.peerscash.com
@@ -24966,12 +24969,4 @@ microsoft-cucreza6fjbpc5ag.z01.azurefd.net
 cdneurops.health
 twopixis.com
 pingan.microsoft-ppe.cn
-quizzical-meadow-22997.pktriot.net
-www.crowdstk.com
-xavierat.ddnsfree.com
-hafriolssesk.xyz
-ns.edahua.top
-hidden.locati.top
-usizevuru.biz
-gintoonafa.com
-# Number of entries: 24968
+# Number of entries: 24963
