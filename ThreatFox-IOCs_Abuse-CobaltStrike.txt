@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-11-14 15:03:49 UTC                        #
+# Last updated: 2023-11-15 22:12:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+hardcorearrpa.viewdns.net
+ns.manager.moonlighter.space
+iirir.com
+ed.sarltma.rest
+sarltma.rest
+aledlsa.sbs
+er.aledlsa.sbs
+ec2-3-68-111-52.eu-central-1.compute.amazonaws.com
+clients.dnsportal.org
+panel.freeddns.org
+drnull.pkmqazreza.workers.dev
+pkmqazreza.workers.dev
+ctrdfg.cloud
+ec2-54-237-14-58.compute-1.amazonaws.com
+ms17-010.win-x86.zip
+192-46-232-181.ip.linodeusercontent.com
+ec2-44-200-80-224.compute-1.amazonaws.com
+vpn.manuelsterner.de
+ip-89-38-135-11-82867.vps.hosted-by-mvps.net
+lamp.manuelsterner.de
+33095-2.whserv.de
+autoconfig.33095-2.whserv.de
+7desktop.com
+salesthe.xyz
+sahmane.sbs
+ed.sahmane.sbs
+dodovdo.store
+www1.allegiancefithealth.com
+www2.eastus.cloudapp.azure.com
+service-3s2hxn8v-1308639534.sh.apigw.tencentcs.com
+rockpython.xyz
+www.theokanegroup.com
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 netskope0.azureedge.net
 service-2w198e2r-1308639534.sh.apigw.tencentcs.com
@@ -24942,31 +24974,4 @@ iqowocguasswcmca.xyz
 sheersdesigns.com
 artmicrodesign.com
 globalaspect.life
-december2nd.ddns.net
-huvoyofib.org
-com-pow.click
-file.com-port.space
-com-port.space
-bobadorato.autos
-bobadorato.beauty
-bobadorato.boats
-bobadorato.makeup
-bomboxmuitoalta.autos
-bomboxmuitoalta.beauty
-bomboxmuitoalta.boats
-bomboxmuitoalta.makeup
-paneladepressao.autos
-paneladepressao.boats
-potunulit.org
-asyfguas.con-ip.com
-d12lysxt2c11pc.cloudfront.net
-d1o5jj3er1p34c.cloudfront.net
-d2s6z1m6xnp5uj.cloudfront.net
-d1ugea0fewof2r.cloudfront.net
-booksfortress.sytes.net
-msft-resources.eastus.cloudapp.azure.com
-microsoft-cucreza6fjbpc5ag.z01.azurefd.net
-cdneurops.health
-twopixis.com
-pingan.microsoft-ppe.cn
-# Number of entries: 24963
+# Number of entries: 24968
