@@ -5686,3 +5686,13 @@ api.statsig.com
 
 ! Tubi App
 license.adrise.tv
+
+! https://github.com/hagezi/dns-blocklists/issues/1536
+code.responsivevoice.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1828
+clearcode.cc
+www.clearcode.cc
+
+! Search Engine
+engine-api.presearch.org
