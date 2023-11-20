@@ -5696,3 +5696,17 @@ www.clearcode.cc
 
 ! Search Engine
 engine-api.presearch.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1834
+track.purolator.com
+
+! A platform to kickstart creative idea
+lxidd.com
+www.lxidd.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1838
+naver.net.nheos.com
+
+! WYSIWYG HTML Editor
+froala.com
+www.froala.com
