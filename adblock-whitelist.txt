@@ -5710,3 +5710,15 @@ naver.net.nheos.com
 ! WYSIWYG HTML Editor
 froala.com
 www.froala.com
+
+! WeChat updates
+tfogc.com
+
+! archive.org
+ia601500.us.archive.org
+
+! https://github.com/hagezi/dns-blocklists/issues/1849
+fb.content-loader.com
+
+! Links / shared Designs
+track.canva.com
