@@ -830,7 +830,10 @@ www.koisea.com
 ftp.iij.ad.jp
 
 ! https://github.com/badmojr/1Hosts/issues/581
-clientstream.launchdarkly.com
+! HP Smart App
+*clientstream*.launchdarkly.com
+*mobile*.launchdarkly.com
+*event*.launchdarkly.com
 
 ! store
 zeelool.com
@@ -3010,6 +3013,7 @@ sentry.sc-prod.net
 chatra.io
 
 ! Breaks Forms on/in various sites/apps
+! https://github.com/hagezi/dns-blocklists/issues/1777
 static-app.klaviyo.com
 static-forms.klaviyo.com
 
@@ -5600,9 +5604,6 @@ vp-event-receiver.userdata-prod.aws-cbc.cloud
 ! Zynga Games
 api.zynga.com
 
-! https://github.com/hagezi/dns-blocklists/issues/1777
-static-forms.klaviyo.com
-
 ! https://github.com/hagezi/dns-blocklists/issues/1778
 tracker.dragontail.com
 
@@ -5722,3 +5723,16 @@ fb.content-loader.com
 
 ! Links / shared Designs
 track.canva.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1851
+wallstreetjournal-ny-app.newsmemory.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1853
+cewe-trx1.elaine-asp.de
+
+! ROBTEC Hosting
+robtec.com.au
+
+! https://github.com/hagezi/dns-blocklists/issues/1854
+ydns.io
+www.ydns.io
