@@ -1293,7 +1293,9 @@ www.awxcdn.com
 ! Sign in on https://www.spectrum.net/
 ! https://github.com/badmojr/1Hosts/issues/640
 pov.spectrum.net
-! h-charter.online-metrix.net
+h-charter.online-metrix.net
+! Spectrum Chat
+sdk.asapp.com
 
 ! DHgate shopping
 de.dhgate.com
@@ -1898,7 +1900,7 @@ o.ss2.us
 s.ss2.us
 
 ! Breaks Fidelity login
-! h-fidelity.online-metrix.net
+h-fidelity.online-metrix.net
 
 ! Mastodon instance
 ioc.exchange
@@ -2685,7 +2687,7 @@ saweria.co
 www.saweria.co
 
 ! https://github.com/hagezi/dns-blocklists/issues/247
-! h-microsoft.online-metrix.net
+h-microsoft.online-metrix.net
 
 ! Lucky Dreams Online Casino
 ui.noda.live
@@ -3632,9 +3634,13 @@ www.zurl.co
 prod.telemetry.ros.rockstargames.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 
-! Playstation 5 Trophies / recently played games
-telemetry-console.api.playstation.com
-telemetry-console.api.playstation.com-v2.edgekey.net
+! Playstation 5 Trophies / recently played games / Store
+! telemetry-console.api.playstation.com
+api.playstation.com
+playstation.com-v2.edgekey.net
+playstation.com.*.omtrdc.net
+playstation.com.edgekey.net
+payments.direct.playstation.com
 
 ! Epicgames 2FA auth, store purchase
 tracking.epicgames.com
@@ -5736,3 +5742,29 @@ robtec.com.au
 ! https://github.com/hagezi/dns-blocklists/issues/1854
 ydns.io
 www.ydns.io
+
+! https://github.com/hagezi/dns-blocklists/issues/1856
+sawap.equifax.com
+
+! https://github.com/hagezi/dns-blocklists/issues/998
+umami.is
+www.umami.is
+
+! https://github.com/hagezi/dns-blocklists/issues/1861
+chat.engagement.ai
+
+! https://github.com/hagezi/dns-blocklists/issues/1862
+chnu.edu.ua
+
+! https://github.com/hagezi/dns-blocklists/issues/1871
+doc-10-3c-docs.googleusercontent.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1874
+d2u3dcdbebyaiu.cloudfront.net
+
+! Electronic online shop
+bdshop.com
+www.bdshop.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1875
+srv.sec.intl.miui.com
