@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-11-27 23:45:02 UTC                        #
+# Last updated: 2023-11-29 06:57:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+kronosmagazine.com
+defrosscrappeo.pw
+mamutert.com
+pl.mamutert.com
+nutiensel.com
+www.qzyp.buzz
+doctorkiki.me
+mail.marssagroup.com
+139-162-187-166.ip.linodeusercontent.com
+www.estafetagoappb.vip
+estafetagoappa.vip
+estafetagoappb.vip
+129.132.28.34.bc.googleusercontent.com
+contato8.appsysten.com
+ec2-18-191-149-233.us-east-2.compute.amazonaws.com
+nginx-typhoon.westeurope.cloudapp.azure.com
+aprettopizza.world
+peermangoz.me
+nimeklroboti.info
+beksystems.com
+concgc.com
+alicortech.com
+rn72836.sytes.net
 ec2-34-194-229-219.compute-1.amazonaws.com
 ec2-54-83-75-196.compute-1.amazonaws.com
 v63768.php-friends.de
@@ -25209,14 +25232,4 @@ client.orxy.space
 eppo.blogoz.top
 ns4.aliyunapis.com
 ns3.aliyunapis.com
-cancelledfirestarter.org
-www.icbci.top
-asdfgasd.com
-service-3mgi5kkg-1318387972.gz.apigw.tencentcs.com
-pekonomia.duckdns.org
-devnetapp.com
-app.dlmix.ourdvs.com
-careers.trendmicro.96html.com
-careers.96html.com
-hadarzade.top
-# Number of entries: 25213
+# Number of entries: 25226
