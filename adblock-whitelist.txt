@@ -320,7 +320,6 @@ go.trouter.skype.com
 insideruser.microsoft.com
 insideruser.trafficmanager.net
 insider.microsoft365.com
-js.monitor.azure.com
 login.microsoftonline.com
 nexus.live.com
 onecollector.cloudapp.aria.akadns.net
@@ -5774,3 +5773,33 @@ p.qlogo.cn
 
 ! https://github.com/hagezi/dns-blocklists/issues/1880
 ntp.jst.mfeed.ad.jp
+
+! Delivery Tracking
+track.earlybird.se
+
+! EaseUS Software Activation
+activation.easeus.com
+
+! Zoom
+zpns.zoom.us
+zpns-byoip-va.zoom.us
+
+! https://github.com/hagezi/dns-blocklists/issues/1887
+info.mediapart.fr
+clients.fft.fr
+stream.proxad.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1744#issuecomment-1837149643
+magiskcn.com
+www.magiskcn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1889
+iptools.su
+www.iptools.su
+
+! Linux Liquorix Kernel Forums
+techpatterns.com
+www.techpatterns.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1897
+backgrounds.wetransfer.net
