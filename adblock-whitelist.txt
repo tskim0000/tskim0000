@@ -5803,3 +5803,16 @@ www.techpatterns.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/1897
 backgrounds.wetransfer.net
+
+! https://github.com/hagezi/dns-blocklists/issues/1900
+as1.abigames.com.vn
+
+! https://www.asx.com.au/markets/company/fgx
+content.markitcdn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1903
+tempr.email
+www.tempr.email
+
+! https://github.com/hagezi/dns-blocklists/issues/1902
+wh-sh59.csloxinfo.com
