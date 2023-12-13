@@ -2989,6 +2989,8 @@ mssdk*-normal*.tiktok*.com
 mssdk*-platform*.tiktok*.com
 mssdk*-tmp*.tiktok*.com
 direct*.*proxy*.byteglb.com
+! TikTok login after reinstalling the app (verfified on iOS)
+log16-normal-*.tiktokv.com
 
 ! Live Chat on https://www.coextro.com/
 tawk.to
@@ -5816,3 +5818,26 @@ www.tempr.email
 
 ! https://github.com/hagezi/dns-blocklists/issues/1902
 wh-sh59.csloxinfo.com
+
+! Weather site
+gismeteo.ru
+www.gismeteo.ru
+
+! https://github.com/hagezi/dns-blocklists/issues/1908
+oa.tr.line.me
+
+! Videos on CNN
+! https://www.cnn.com/videos/us/2023/12/09/exp-lindy-li-abortion-intv-120905aseg1-cnni-us.cnn
+zion.api.cnn.io
+registry.api.cnn.io
+
+! Unsubscribe Nocibe Newsletter
+m.n1.e-nocibe.fr
+
+! Unsubscribe from evaluation requests
+judge.me
+www.judge.me
+
+! Adblock detection on APKmirror
+07c225f3.online
+www.07c225f3.online
