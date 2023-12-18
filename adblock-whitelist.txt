@@ -657,6 +657,10 @@ video.xxxjmp.com
 videos-fms.jwpsrv.com
 videos.porndig.com
 
+! Breaks a lot of sites and logins
+cdn.cookielaw.org
+cmp-cdn.cookielaw.org
+
 ! VOE Streams
 35volitantplimsoles5.com
 www.35volitantplimsoles5.com
@@ -1450,9 +1454,6 @@ content.cptrack.de
 ! Videos on news38.de
 lbnew.consentmanager.net
 consentmanager.mgr.consensu.org
-
-! Mobile phones with Mediatek chip (EPO.DAT)
-!*.mediatek.com
 
 ! Videos on crunchyroll.com
 fy.v.vrv.co
@@ -5838,6 +5839,35 @@ m.n1.e-nocibe.fr
 judge.me
 www.judge.me
 
-! Adblock detection on APKmirror
-07c225f3.online
-www.07c225f3.online
+! Adblock detection on APKmirror???
+!07c225f3.online
+
+! https://github.com/hagezi/dns-blocklists/issues/1936
+cdn.epoq.de
+
+! https://github.com/hagezi/dns-blocklists/issues/1937
+cts.vresp.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1942
+faptor.com
+www.faptor.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1945
+nsw2u.com
+www.nsw2u.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1944
+live.mmcdn.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1947
+activation.cloud.techsmith.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1949
+covidsafefurs.org
+www.covidsafefurs.org
+
+! Redeem rewards after placing orders on the JustEat food delivery application
+le-sorprese-di-natale.justeat.it
+
+! Unsubscribe from mail lists
+track.mdrctr.com
