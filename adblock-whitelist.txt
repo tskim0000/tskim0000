@@ -3092,7 +3092,8 @@ www.hopp.to
 k.apiairasia.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/498
-! cdn.optimizely.com
+! https://github.com/hagezi/dns-blocklists/issues/1954
+cdn.optimizely.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/539
 baixaki.com.br
@@ -5871,3 +5872,19 @@ le-sorprese-di-natale.justeat.it
 
 ! Unsubscribe from mail lists
 track.mdrctr.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1952
+u.pcloud.com
+
+! Dairy Queen mobile app and emails
+m.dq.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1956
+shepherd.ff.avast.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1957
+ncc.avast.com
+
+! https://github.com/hagezi/dns-blocklists/issues/1958
+opentext.com
+www.opentext.com
