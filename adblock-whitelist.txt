@@ -28,7 +28,6 @@
  s3-*-w.amazonaws.com 
  s3-*-w.*.amazonaws.com 
  s3.dualstack.*.amazonaws.com 
- *kinesis*.amazonaws.com 
 
 ! Amazon Devices
  acsechocaptiveportal.com 
@@ -103,7 +102,7 @@
 
 ! Apple
 ! https://support.apple.com/en-us/HT210060
- apple-dns.net 
+!*.apple-dns.net
  apple.com.akadns.net 
  apple.com.edgekey.net 
  apple.com.edgesuite.net 
@@ -208,6 +207,10 @@
  fbcdn.net 
 
 ! Google
+ gvt1.com 
+ www.gvt1.com 
+ gvt3.com 
+ www.gvt3.com 
  storage.googleapis.com 
  afs.googleusercontent.com 
  ajax.googleapis.com 
@@ -236,6 +239,8 @@
  geller-pa.googleapis.com 
  geomobileservices-pa.googleapis.com 
  growth-pa.googleapis.com 
+ gvt2.com 
+ www.gvt2.com 
  imasdk.googleapis.com 
  jnn-pa.googleapis.com 
  linkhelp.clients.google.com 
@@ -1932,8 +1937,6 @@
 
 ! Chipotle account login
  services.chipotle.com 
-
-! apple-dns.net
 
 ! Articles on buzzfee.com
  abeagle-public.buzzfeed.com 
@@ -5900,3 +5903,23 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/1964
  cnstrc.com 
+
+! https://github.com/hagezi/dns-blocklists/issues/1966
+ podscribe.com 
+
+! ISP
+ infinitummail.com 
+
+! Test products online
+ testerheld.de 
+ www.testerheld.de 
+
+! Testerheld App
+ cpx-research.com 
+
+! https://github.com/hagezi/dns-blocklists/issues/1972
+ softwareadvice.com 
+ www.softwareadvice.com 
+
+! https://github.com/hagezi/dns-blocklists/issues/1974
+ apphud.com 
