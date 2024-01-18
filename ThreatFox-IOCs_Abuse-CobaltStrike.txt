@@ -1,11 +1,90 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-15 18:34:11 UTC                        #
+# Last updated: 2024-01-17 22:12:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+ practical-goldwasser.2-58-113-220.plesk.page
+ tradeplayz.com
+ mail.spacestar.su
+ hei.ttss66.co
+ sacacaa.com
+ 1.ttss66.co
+ cloud5.5-systems.ru
+ hel.syscare.sk
+ node103.5-systems.ru
+ static.49.37.216.95.clients.your-server.de
+ dev.5-systems.ru
+ vault.5-systems.ru
+ cdn3-kit1.online
+ bl3mder3d.com
+ static.113.214.202.116.clients.your-server.de
+ free-cdn.tech
+ cdn3.ru
+ www.cy-security.de
+ zero3.kentest.fyi
+ ntc-telecomcorporation.workers.dev
+ mail-depo-gov-pk.ntc-telecomcorporation.workers.dev
+ mail-dgdp-gov-pk.ntc-telecomcorporation.workers.dev
+ mail-hit-gov-pk.ntc-telecomcorporation.workers.dev
+ mail-paf-gov-pk.ntc-telecomcorporation.workers.dev
+ alfalahtransct-bank.servehttp.com
+ cloud-ntdc.servehttp.com
+ e-servicesptclnetpk.servehttp.com
+ e-supportntc.servehttp.com
+ financeptcl-govpk.servehttp.com
+ flysmart-piac.servehttp.com
+ ogdclcloud-mysharep.servehalflife.com
+ services-ptclnetpk.servehttp.com
+ wetransfer.servehttp.com
+ shiningmoons.org
+ kr.i110.fun
+ saldanha.top
+ 7070bc8.sytes.net
+ shomyo.secru.it
+ multitraders.net
+ thekostenfamilys.com
+ thichgiban.com
+ kashmirworldwide.com
+ mahadev.loclx.io
+ mahadevcarrentals.com
+ shriramcarrentals.com
+ shriram.loclx.io
+ wuxiaoyun.com
+ d328.net
+ bba-217-165-232-41.alshamil.net.ae
+ tpowe2.com
+ europapokal2024.com
+ imoneymy.com
+ 0280678.com
+ www.farmbilllawenterprise.org
+ www.hypocrisync.org
+ www.conferencecenters.org
+ play.customerportalverify.store
+ login.recruiterteams.com
+ ec2-54-87-191-236.compute-1.amazonaws.com
+ 77.105.146.152.sslip.io
+ app.berkeleyisyou.com
+ www.kesselfoodmarket.com
+ whoami.cy-security.de
+ spacestar.su
+ vasvasniks6.fvds.ru
+ suivre-mon-colis.com
+ track-my-parcel.org
+ rb-c-clk.online
+ htmljys.morebit.top
+ jadu.vip
+ vpv.xj6.top
+ muoujiejump2.sbs
+ www.159-89-8-28.cprapid.com
+ vps-zap816639-7.zap-srv.com
+ ec2-43-204-108-99.ap-south-1.compute.amazonaws.com
+ service-bvvdi136-1317500845.gz.tencentapigw.com
+ cachewebspace.com
+ privatebankinghsbc.blogspot.com
+ chaseonlineprivatebanking.blogspot.com
  vortexlab.azure-api.net
  service-bauue492-1309306755.gz.tencentapigw.cn
  lz4.tiktok123.life
@@ -31400,31 +31479,4 @@
  kellmda.click
  percolysrl2.ddns.net
  uilove.ddns.net
- windows-tech-support.su
- service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
- canadiancrafting.azureedge.net
- kufufeyu.org
- artwest35-dgeygpfqhxgqdeap.z01.azurefd.net
- wiraofise.com
- www.micorsoft.xyz
- fashion4everyone.biz
- sport-program.com
- newyearrem.myftp.biz
- septrem.duckdns.org
- nekololis.wtf
- stress.wtf
- cnc.stress.wtf
- headsity.com
- stoppublick.xyz
- let.minimi.top
- service-q07ntsqs-1301775575.gz.apigw.tencentcs.com
- aas.napso.top
- ns2.mdstech.com.tw
- ns1.mdstech.com.tw
- gas.mp4get.top
- worldofpoetry.xyz
- service-ogf120ck-1300456157.nj.apigw.tencentcs.com
- cdn.cdndbapp.top
- sanjianke.icu
- cs45.gamesmetaa.com
-# Number of entries: 31421
+# Number of entries: 31473
